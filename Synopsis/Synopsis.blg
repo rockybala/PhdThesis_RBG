@@ -1,0 +1,46 @@
+This is BibTeX, Version 0.99d (TeX Live 2015/Debian)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: Synopsis.aux
+The style file: CMSPubComm.bst
+Database file #1: Synopsis_ref.bib
+You've used 22 entries,
+            2529 wiz_defined-function locations,
+            797 strings with 8699 characters,
+and the built_in function-call counts, 7347 in all, are:
+= -- 840
+> -- 169
+< -- 0
++ -- 58
+- -- 36
+* -- 532
+:= -- 933
+add.period$ -- 51
+call.type$ -- 22
+change.case$ -- 0
+chr.to.int$ -- 0
+cite$ -- 22
+duplicate$ -- 440
+empty$ -- 754
+format.name$ -- 37
+if$ -- 1961
+int.to.chr$ -- 0
+int.to.str$ -- 22
+missing$ -- 58
+newline$ -- 115
+num.names$ -- 20
+pop$ -- 141
+preamble$ -- 1
+purify$ -- 0
+quote$ -- 0
+skip$ -- 246
+stack$ -- 0
+substring$ -- 362
+swap$ -- 171
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 0
+warning$ -- 0
+while$ -- 46
+width$ -- 24
+write$ -- 286

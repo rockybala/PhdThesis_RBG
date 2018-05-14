@@ -1,0 +1,142 @@
+\providecommand{\href}[2]{#2}\begingroup\raggedright\begin{thebibliography}{10}%
+\makeatletter
+\providecommand{\hrefCMSnoop }[0]{\@secondoftwo}%
+\makeatother
+\providecommand{\doi}{\texttt{doi:}\begingroup \urlstyle{tt}\Url}
+
+\bibitem{Glashow:1961tr}
+\hrefCMSnoop {} {S.~L. Glashow, ``{Partial Symmetries of Weak Interactions}'',}
+  \textit{ Nucl. Phys.} \textbf{ 22} (1961) 579--588,
+\href{http://dx.doi.org/10.1016/0029-5582(61)90469-2}{\doi{10.1016/0029-5582(61)90469-2}}.
+%%CITATION = NUPHA,22,579;%%.
+
+\bibitem{Salam:1964ry}
+\hrefCMSnoop {} {A.~Salam and J.~C. Ward, ``{Electromagnetic and weak
+  interactions}'',} \textit{ Phys. Lett.} \textbf{ 13} (1964) 168--171,
+\href{http://dx.doi.org/10.1016/0031-9163(64)90711-5}{\doi{10.1016/0031-9163(64)90711-5}}.
+%%CITATION = PHLTA,13,168;%%.
+
+\bibitem{Weinberg:1967tq}
+\hrefCMSnoop {} {S.~Weinberg, ``{A Model of Leptons}'',} \textit{ Phys. Rev.
+  Lett.} \textbf{ 19} (1967) 1264--1266,
+\href{http://dx.doi.org/10.1103/PhysRevLett.19.1264}{\doi{10.1103/PhysRevLett.19.1264}}.
+%%CITATION = PRLTA,19,1264;%%.
+
+\bibitem{Gross:1973id}
+\hrefCMSnoop {} {D.~J. Gross and F.~Wilczek, ``{Ultraviolet Behavior of
+  Nonabelian Gauge Theories}'',} \textit{ Phys. Rev. Lett.} \textbf{ 30} (1973)
+  1343--1346,
+\href{http://dx.doi.org/10.1103/PhysRevLett.30.1343}{\doi{10.1103/PhysRevLett.30.1343}}.
+%%CITATION = PRLTA,30,1343;%%.
+
+\bibitem{Politzer:1973fx}
+\hrefCMSnoop {} {H.~D. Politzer, ``{Reliable Perturbative Results for Strong
+  Interactions?}'',} \textit{ Phys. Rev. Lett.} \textbf{ 30} (1973) 1346--1349,
+\href{http://dx.doi.org/10.1103/PhysRevLett.30.1346}{\doi{10.1103/PhysRevLett.30.1346}}.
+%%CITATION = PRLTA,30,1346;%%.
+
+\bibitem{Pati:1975md}
+\hrefCMSnoop {} {J.~C. Pati, A.~Salam, and J.~A. Strathdee, ``{Are Quarks
+  Composite?}'',} \textit{ Phys. Lett.} \textbf{ B59} (1975) 265,
+\href{http://dx.doi.org/10.1016/0370-2693(75)90042-8}{\doi{10.1016/0370-2693(75)90042-8}}.
+%%CITATION = PHLTA,B59,265;%%.
+
+\bibitem{Eichten:1983hw}
+\hrefCMSnoop {} {E.~Eichten, K.~D. Lane, and M.~E. Peskin, ``{New Tests for
+  Quark and Lepton Substructure}'',} \textit{ Phys. Rev. Lett.} \textbf{ 50}
+  (1983) 811,
+\href{http://dx.doi.org/10.1103/PhysRevLett.50.811}{\doi{10.1103/PhysRevLett.50.811}}.
+%%CITATION = PRLTA,50,811;%%.
+
+\bibitem{Baur:1987ga}
+\hrefCMSnoop {} {U.~Baur, I.~Hinchliffe, and D.~Zeppenfeld, ``{Excited Quark
+  Production at Hadron Colliders}'',} \textit{ Int.J.Mod.Phys.} \textbf{ A2}
+  (1987) 1285,
+\href{http://dx.doi.org/10.1142/S0217751X87000661}{\doi{10.1142/S0217751X87000661}}.
+%%CITATION = IMPAE,A2,1285;%%.
+
+\bibitem{Baur:1989kv}
+\hrefCMSnoop {} {U.~Baur, M.~Spira, and P.~Zerwas, ``{Excited Quark and Lepton
+  Production at Hadron Colliders}'',} \textit{ Phys.Rev.} \textbf{ D42} (1990)
+  815,
+\href{http://dx.doi.org/10.1103/PhysRevD.42.815}{\doi{10.1103/PhysRevD.42.815}}.
+%%CITATION = PHRVA,D42,815;%%.
+
+\bibitem{Higgs:1964ia}
+\hrefCMSnoop {} {P.~W. Higgs, ``{Broken symmetries, massless particles and
+  gauge fields}'',} \textit{ Phys. Lett.} \textbf{ 12} (1964) 132--133,
+\href{http://dx.doi.org/10.1016/0031-9163(64)91136-9}{\doi{10.1016/0031-9163(64)91136-9}}.
+%%CITATION = PHLTA,12,132;%%.
+
+\bibitem{Englert:1964et}
+\hrefCMSnoop {} {F.~Englert and R.~Brout, ``{Broken Symmetry and the Mass of
+  Gauge Vector Mesons}'',} \textit{ Phys. Rev. Lett.} \textbf{ 13} (1964)
+  321--323,
+\href{http://dx.doi.org/10.1103/PhysRevLett.13.321}{\doi{10.1103/PhysRevLett.13.321}}.
+%%CITATION = PRLTA,13,321;%%.
+
+\bibitem{Higgs:1964pj}
+\hrefCMSnoop {} {P.~W. Higgs, ``{Broken Symmetries and the Masses of Gauge
+  Bosons}'',} \textit{ Phys. Rev. Lett.} \textbf{ 13} (1964) 508--509,
+\href{http://dx.doi.org/10.1103/PhysRevLett.13.508}{\doi{10.1103/PhysRevLett.13.508}}.
+%%CITATION = PRLTA,13,508;%%.
+
+\bibitem{Guralnik:1964eu}
+\hrefCMSnoop {} {G.~S. Guralnik, C.~R. Hagen, and T.~W.~B. Kibble, ``{Global
+  Conservation Laws and Massless Particles}'',} \textit{ Phys. Rev. Lett.}
+  \textbf{ 13} (1964) 585--587,
+\href{http://dx.doi.org/10.1103/PhysRevLett.13.585}{\doi{10.1103/PhysRevLett.13.585}}.
+%%CITATION = PRLTA,13,585;%%.
+
+\bibitem{Higgs:1966ev}
+\hrefCMSnoop {} {P.~W. Higgs, ``{Spontaneous Symmetry Breakdown without
+  Massless Bosons}'',} \textit{ Phys. Rev.} \textbf{ 145} (1966) 1156--1163,
+\href{http://dx.doi.org/10.1103/PhysRev.145.1156}{\doi{10.1103/PhysRev.145.1156}}.
+%%CITATION = PHRVA,145,1156;%%.
+
+\bibitem{Bruning:782076}
+O.~S. Br$\ddot{\textrm{u}}$ning {et~al.}, ``{LHC Design Report}''.
+\newblock CERN, Geneva, 2004.
+\newblock CERN-2004-003-V-1.
+
+\bibitem{Evans:2008zzb}
+\hrefCMSnoop {} {L.~Evans and P.~Bryant, ``{LHC Machine}'',} \textit{ JINST}
+  \textbf{ 3} (2008) S08001,
+\href{http://dx.doi.org/10.1088/1748-0221/3/08/S08001}{\doi{10.1088/1748-0221/3/08/S08001}}.
+%%CITATION = JINST,3,S08001;%%.
+
+\bibitem{cmsTDR}
+{ CMS} Collaboration, G.~L. Bayatian {et~al.}, ``{CMS Physics: Technical Design
+  Report Volume 1: Detector Performance and Software}''.
+\newblock TDR CMS. CERN, Geneva, 2006.
+\newblock {CERN-LHCC-2006-001}.
+
+\bibitem{Web:CERN}
+\hrefCMSnoop {} {``CERN Experiments and Facilities''.}
+  \url{http://home.web.cern.ch/about}.
+\newblock Accessed, 2015.
+
+\bibitem{triggerTDR}
+{ CMS} Collaboration, G.~L. Bayatyan {et~al.}, ``{CMS TriDAS project: Technical
+  Design Report, Volume 1: The Trigger Systems}''.
+\newblock TDR CMS. CERN, Geneva, 2000.
+\newblock CMS-TDR-6-1; CERN-LHCC-2000-038.
+
+\bibitem{daqhltTDR}
+{ CMS} Collaboration, S.~Cittolin {et~al.}, ``{CMS The TriDAS Project:
+  Technical Design Report, Volume 2: Data Acquisition and High-Level Trigger.
+  CMS trigger and data-acquisition project}''.
+\newblock TDR CMS. CERN, Geneva, 2002.
+\newblock CMS-TDR-6; CERN-LHCC-2002-026.
+
+\bibitem{Lange:2011zza}
+\hrefCMSnoop {} {{ CMS} Collaboration, ``{The CMS reconstruction software}'',}
+  \textit{ J.Phys.Conf.Ser.} \textbf{ 331} (2011) 032020,
+\href{http://dx.doi.org/10.1088/1742-6596/331/3/032020}{\doi{10.1088/1742-6596/331/3/032020}}.
+%%CITATION = 00462,331,032020;%%.
+
+\bibitem{robert2004monte}
+C.~P. Robert, ``Monte carlo methods''.
+\newblock Wiley Online Library, 2004.
+
+\end{thebibliography}\endgroup

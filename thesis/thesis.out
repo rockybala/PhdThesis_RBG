@@ -1,0 +1,69 @@
+\BOOKMARK [0][-]{chapter.1}{Theoretical Perspective}{}% 1
+\BOOKMARK [1][-]{section.1.1}{Evolution Of Particle Physics}{chapter.1}% 2
+\BOOKMARK [1][-]{section.1.2}{Standard Model}{chapter.1}% 3
+\BOOKMARK [2][-]{subsection.1.2.1}{Matter particles}{section.1.2}% 4
+\BOOKMARK [2][-]{subsection.1.2.2}{Forces and messenger particles}{section.1.2}% 5
+\BOOKMARK [2][-]{subsection.1.2.3}{SM as a gauge theory}{section.1.2}% 6
+\BOOKMARK [2][-]{subsection.1.2.4}{Challenges faced by SM: unknown mysteries}{section.1.2}% 7
+\BOOKMARK [1][-]{section.1.3}{Beyond The Standard Model}{chapter.1}% 8
+\BOOKMARK [2][-]{subsection.1.3.1}{Model of excited quarks}{section.1.3}% 9
+\BOOKMARK [2][-]{subsection.1.3.2}{A follow-up of previous searches}{section.1.3}% 10
+\BOOKMARK [0][-]{chapter.2}{The Experimental Apparatus}{}% 11
+\BOOKMARK [1][-]{section.2.1}{The Large Hadron Collider}{chapter.2}% 12
+\BOOKMARK [2][-]{subsection.2.1.1}{LHC tunnel layout}{section.2.1}% 13
+\BOOKMARK [2][-]{subsection.2.1.2}{Main components of the LHC}{section.2.1}% 14
+\BOOKMARK [2][-]{subsection.2.1.3}{Proton's journey to maximum acceleration}{section.2.1}% 15
+\BOOKMARK [2][-]{subsection.2.1.4}{Luminosity measurements at LHC}{section.2.1}% 16
+\BOOKMARK [1][-]{section.2.2}{The CMS Detector}{chapter.2}% 17
+\BOOKMARK [2][-]{subsection.2.2.1}{Layout of the CMS detector}{section.2.2}% 18
+\BOOKMARK [2][-]{subsection.2.2.2}{CMS Trigger and Data Acquisition System}{section.2.2}% 19
+\BOOKMARK [2][-]{subsection.2.2.3}{CMS data management}{section.2.2}% 20
+\BOOKMARK [2][-]{subsection.2.2.4}{CMS software and computing}{section.2.2}% 21
+\BOOKMARK [0][-]{chapter.3}{Event Reconstruction And Simulation}{}% 22
+\BOOKMARK [1][-]{section.3.1}{Event Reconstruction}{chapter.3}% 23
+\BOOKMARK [2][-]{subsection.3.1.1}{Track reconstruction}{section.3.1}% 24
+\BOOKMARK [2][-]{subsection.3.1.2}{Vertex reconstruction}{section.3.1}% 25
+\BOOKMARK [2][-]{subsection.3.1.3}{Photon reconstruction and identification}{section.3.1}% 26
+\BOOKMARK [2][-]{subsection.3.1.4}{Jet reconstruction and identification}{section.3.1}% 27
+\BOOKMARK [1][-]{section.3.2}{Event Simulation}{chapter.3}% 28
+\BOOKMARK [2][-]{subsection.3.2.1}{Event generation}{section.3.2}% 29
+\BOOKMARK [2][-]{subsection.3.2.2}{Detector simulation}{section.3.2}% 30
+\BOOKMARK [0][-]{chapter.4}{Search for light and heavy flavor excited quarks}{}% 31
+\BOOKMARK [1][-]{section.4.1}{Analysis strategy}{chapter.4}% 32
+\BOOKMARK [2][-]{subsection.4.1.1}{Excited quark analysis}{section.4.1}% 33
+\BOOKMARK [1][-]{section.4.2}{Production of Ntuples}{chapter.4}% 34
+\BOOKMARK [2][-]{subsection.4.2.1}{Samples processed}{section.4.2}% 35
+\BOOKMARK [1][-]{section.4.3}{Re-weighting of MC events}{chapter.4}% 36
+\BOOKMARK [2][-]{subsection.4.3.1}{Luminosity re-weighting}{section.4.3}% 37
+\BOOKMARK [2][-]{subsection.4.3.2}{Pile-up re-weighting}{section.4.3}% 38
+\BOOKMARK [1][-]{section.4.4}{Event selection}{chapter.4}% 39
+\BOOKMARK [2][-]{subsection.4.4.1}{Trigger selection}{section.4.4}% 40
+\BOOKMARK [2][-]{subsection.4.4.2}{MET filters}{section.4.4}% 41
+\BOOKMARK [2][-]{subsection.4.4.3}{Primary vertex selection}{section.4.4}% 42
+\BOOKMARK [2][-]{subsection.4.4.4}{Analysis object selection: Photon}{section.4.4}% 43
+\BOOKMARK [2][-]{subsection.4.4.5}{Analysis object selection: Jet}{section.4.4}% 44
+\BOOKMARK [2][-]{subsection.4.4.6}{Analysis object selection: b-Jet}{section.4.4}% 45
+\BOOKMARK [2][-]{subsection.4.4.7}{Kinematical restrictions between \040and jet/b-jet}{section.4.4}% 46
+\BOOKMARK [2][-]{subsection.4.4.8}{Optimization of event selection}{section.4.4}% 47
+\BOOKMARK [1][-]{section.4.5}{Highest invariant mass events in data}{chapter.4}% 48
+\BOOKMARK [1][-]{section.4.6}{Signal spectrum}{chapter.4}% 49
+\BOOKMARK [1][-]{section.4.7}{Signal interpolation}{chapter.4}% 50
+\BOOKMARK [1][-]{section.4.8}{Parametric background}{chapter.4}% 51
+\BOOKMARK [2][-]{subsection.4.8.1}{Fisher test}{section.4.8}% 52
+\BOOKMARK [2][-]{subsection.4.8.2}{Goodness-of-fit}{section.4.8}% 53
+\BOOKMARK [2][-]{subsection.4.8.3}{Bias due to the choice of background fit function}{section.4.8}% 54
+\BOOKMARK [1][-]{section.4.9}{Systematic Uncertainties}{chapter.4}% 55
+\BOOKMARK [2][-]{subsection.4.9.1}{Luminosity}{section.4.9}% 56
+\BOOKMARK [2][-]{subsection.4.9.2}{Pile-up Uncertainty }{section.4.9}% 57
+\BOOKMARK [2][-]{subsection.4.9.3}{HLT trigger inefficiency}{section.4.9}% 58
+\BOOKMARK [2][-]{subsection.4.9.4}{Photon and jet energy scale}{section.4.9}% 59
+\BOOKMARK [2][-]{subsection.4.9.5}{Photon and jet energy resolution}{section.4.9}% 60
+\BOOKMARK [2][-]{subsection.4.9.6}{Photon ID inefficiency}{section.4.9}% 61
+\BOOKMARK [2][-]{subsection.4.9.7}{b-Tag scale factor}{section.4.9}% 62
+\BOOKMARK [2][-]{subsection.4.9.8}{Signal shape interpolation}{section.4.9}% 63
+\BOOKMARK [2][-]{subsection.4.9.9}{Background Shape Uncertainty}{section.4.9}% 64
+\BOOKMARK [1][-]{section.4.10}{Limit computation}{chapter.4}% 65
+\BOOKMARK [1][-]{section.4.11}{Results}{chapter.4}% 66
+\BOOKMARK [2][-]{subsection.4.11.1}{Significance of local excesses in data}{section.4.11}% 67
+\BOOKMARK [2][-]{subsection.4.11.2}{Exclusion limits}{section.4.11}% 68
+\BOOKMARK [0][-]{chapter.5}{Summary and conclusion}{}% 69

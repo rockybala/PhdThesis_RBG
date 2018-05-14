@@ -1,0 +1,25 @@
+\addvspace {10\p@ }
+\contentsline {table}{\numberline {1.1}{\ignorespaces Standard model fundamental fermion's three generations.\relax }}{9}{table.caption.10}
+\contentsline {table}{\numberline {1.2}{\ignorespaces Important properties of fundamental forces of universe.\relax }}{10}{table.caption.11}
+\contentsline {table}{\numberline {1.3}{\ignorespaces Assignment of the various quantum numbers including $T_{3}$ and $Y$ to the electroweak singlet and doublet fundamental fermions.\relax }}{15}{table.caption.12}
+\contentsline {table}{\numberline {1.4}{\ignorespaces Approximate estimate of branching fractions (BR) of \ensuremath {\mathrm {q^\star }}\xspace \ decay in different channels, assumptions made are: $\Lambda $ = $M_{\ensuremath {\mathrm {q^\star }}\xspace }$ and $f$ = $f^{\prime }$ = $f_{s}$.\relax }}{24}{table.caption.15}
+\addvspace {10\p@ }
+\contentsline {table}{\numberline {2.1}{\ignorespaces Design values of the various parameters of LHC and a comparison with the values obtained during the 2016 run.\relax }}{34}{table.caption.23}
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\contentsline {table}{\numberline {4.1}{\ignorespaces List of data samples along with corresponding run ranges and integrated luminosity. The JSON file used to select certified runs and luminosity sections is also listed.\relax }}{92}{table.caption.55}
+\contentsline {table}{\numberline {4.2}{\ignorespaces MC samples for \ensuremath {\mathrm {q^\star }}\xspace signal, simulated and reconstructed at $\sqrt {s}=13\ensuremath {\mathrm {\tmspace +\thinmuskip {.1667em}TeV}}\xspace $.\relax }}{93}{table.caption.56}
+\contentsline {table}{\numberline {4.3}{\ignorespaces MC samples for \ensuremath {\mathrm {b^\star }}\xspace signal, simulated and reconstructed at $\sqrt {s}=13\ensuremath {\mathrm {\tmspace +\thinmuskip {.1667em}TeV}}\xspace $.\relax }}{94}{table.caption.57}
+\contentsline {table}{\numberline {4.4}{\ignorespaces The background MC samples used in this analysis, simulated and reconstructed at $\sqrt {s}$ = 13 TeV.\relax }}{96}{table.caption.59}
+\contentsline {table}{\numberline {4.5}{\ignorespaces Different triggers used in the trigger efficiency study.\relax }}{100}{table.caption.61}
+\contentsline {table}{\numberline {4.6}{\ignorespaces Effective area for different photon isolations.\relax }}{102}{table.caption.63}
+\contentsline {table}{\numberline {4.7}{\ignorespaces Selection cut flow table for signal, different backgrounds and data.\relax }}{110}{table.caption.70}
+\contentsline {table}{\numberline {4.8}{\ignorespaces Selection efficiency ($\%$) table for the \ensuremath {\mathrm {q^\star }}\xspace signal samples in the mass range 1.0$-$7.0\ensuremath {\mathrm {\tmspace +\thinmuskip {.1667em}TeV}}\xspace with SM Coupling $f$ $=$ 1.0.\relax }}{110}{table.caption.71}
+\contentsline {table}{\numberline {4.9}{\ignorespaces Selection efficiency ($\%$) table for the \ensuremath {\mathrm {b^\star }}\xspace signal samples in the mass range 1.0$-$4.0\ensuremath {\mathrm {\tmspace +\thinmuskip {.1667em}TeV}}\xspace with SM Coupling $f$ $=$ 1.0.\relax }}{110}{table.caption.72}
+\contentsline {table}{\numberline {4.10}{\ignorespaces Photon ID cut optimization corresponding to different mass expected limits.\relax }}{117}{table.caption.80}
+\contentsline {table}{\numberline {4.11}{\ignorespaces ${\Delta }{\eta }$ cut optimization corresponding to different mass expected limits.\relax }}{118}{table.caption.82}
+\contentsline {table}{\numberline {4.12}{\ignorespaces ${\Delta }{\phi }$ cut optimization corresponding to different mass expected limits.\relax }}{119}{table.caption.84}
+\contentsline {table}{\numberline {4.13}{\ignorespaces CSVv2 cut optimization corresponding to different mass expected limits.\relax }}{119}{table.caption.86}
+\contentsline {table}{\numberline {4.14}{\ignorespaces Summary of the dominant sources of systematic uncertainties and their effect on the signal yield.\relax }}{136}{table.caption.103}
+\contentsline {table}{\numberline {4.15}{\ignorespaces Constraint terms associated with different systematic uncertainty nuisance parameters.\relax }}{137}{table.caption.104}
+\addvspace {10\p@ }

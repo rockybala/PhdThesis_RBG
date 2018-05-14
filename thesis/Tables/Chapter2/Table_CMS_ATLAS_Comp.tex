@@ -1,0 +1,41 @@
+\begin{table}[h!]
+\begin{center}
+\resizebox{16cm}{!}{
+%\begin{tabular}{c !{\vrule width -1pt}c !{\vrule width -1pt}c !{\vrule width -1pt}c !{\vrule width -1pt}c !{\vrule width -1pt}c !{\vrule width -1pt}c !{\vrule width -1pt}c}  %%% !{\vrule width -1pt} to make column line width less, so that white space not visible in colored table. but not working very nicely.
+\renewcommand{\arraystretch}{1.2}
+\begin{tabular}{lcc}
+\toprule
+\belowrulesepcolor{Mygray}
+\belowrulesepcolor{Mygray}
+\belowrulesepcolor{Mygray}
+\rowcolor{Mygray}[\dimexpr\tabcolsep+0.09pt\relax]  
+System  & CMS & ATLAS \\
+\aboverulesepcolor{Mygray}
+\aboverulesepcolor{Mygray}
+\aboverulesepcolor{Mygray}
+\midrule
+\bf{Tracker} & Silicon (pixel + microstrip) & Silicon (pixel + microstrip) \\
+&                              & Gas (transition radiation) \\
+\midrule
+\bf{Electromagnetic} &  PbWO$_{4}$ crystals & Sampling (lead/liquid argon) \\
+\bf{calorimeter} & &  \\
+\midrule
+\bf{Hadron} & Sampling (brass/plastic scintillator) & Sampling (steel/plastic scintillator) \\
+\bf{calorimeter} &                                       & (copper/liquid argon) \\
+\midrule
+\bf{Muon detector} & Gas & Gas \\
+\midrule
+\bf{Magnet}      & Solenoid (around tracker        & Solenoid (around tracker)  \\
+                 & and calorimeters)  &  Toroid (around muon)\\
+&      Iron return yoke                      &  \\
+\midrule
+\bf{Magnetic field} & Approximately 4\unit{T} in solenoid & Approximately 2\unit{T} in solenoid \\
+               & and 2\unit{T} in return yoke        & and 0.5--1\unit{T} in toroid \\
+\bottomrule
+\end{tabular}
+}
+\caption{A comparison of the technologies used in CMS and ATLAS.}
+\label{Table:CMS_ATLAS_Comp}
+\end{center}
+\end{table}
+\vspace{-0.4in}

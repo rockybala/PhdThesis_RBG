@@ -1,0 +1,58 @@
+This is BibTeX, Version 0.99d (TeX Live 2015/Debian)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: thesis.aux
+A level-1 auxiliary file: Chapters/Chapter1.aux
+A level-1 auxiliary file: Chapters/Chapter2.aux
+A level-1 auxiliary file: Chapters/Chapter3.aux
+A level-1 auxiliary file: Chapters/Chapter4.aux
+A level-1 auxiliary file: Chapters/Chapter5.aux
+The style file: CMSPubComm.bst
+Reallocated field_info (elt_size=4) to 11169 items from 5000.
+Database file #1: Chapters/ChapterAll_ref.bib
+Warning--empty author and editor in ecalTDR
+Warning--empty author and editor in hcalTDR
+Warning--empty author and editor in cmsMagnet
+Warning--empty author and editor in muonTDR
+Warning--empty journal in Interpolation
+You've used 199 entries,
+            2529 wiz_defined-function locations,
+            2214 strings with 44511 characters,
+and the built_in function-call counts, 62877 in all, are:
+= -- 7211
+> -- 1121
+< -- 9
++ -- 419
+- -- 220
+* -- 5240
+:= -- 7679
+add.period$ -- 413
+call.type$ -- 199
+change.case$ -- 1
+chr.to.int$ -- 0
+cite$ -- 204
+duplicate$ -- 3954
+empty$ -- 6533
+format.name$ -- 234
+if$ -- 16799
+int.to.chr$ -- 0
+int.to.str$ -- 199
+missing$ -- 509
+newline$ -- 941
+num.names$ -- 131
+pop$ -- 1157
+preamble$ -- 1
+purify$ -- 0
+quote$ -- 0
+skip$ -- 2201
+stack$ -- 0
+substring$ -- 2778
+swap$ -- 1598
+text.length$ -- 9
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 0
+warning$ -- 5
+while$ -- 356
+width$ -- 202
+write$ -- 2554
+(There were 5 warnings)

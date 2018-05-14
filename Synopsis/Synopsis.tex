@@ -1,0 +1,302 @@
+\documentclass[12pt,a4]{article}
+
+\usepackage{hyperref}
+\usepackage[T1]{fontenc}
+\usepackage{microtype}
+%% packages for table styles
+\usepackage{booktabs,tabularx,color,colortbl, xfrac}
+\usepackage{graphicx}
+%% Equations alignment
+\usepackage[fleqn]{amsmath} %% left
+\usepackage{amsfonts,MnSymbol}
+\usepackage{amsthm}
+\usepackage{cite}
+\usepackage{subfig}
+\usepackage{float}
+\usepackage{rotating}
+\usepackage{bm} % for bold math font
+\usepackage{multirow}
+\usepackage{verbatim}
+\usepackage{xspace}
+\usepackage{caption}
+\usepackage{cleveref}
+\usepackage{fixmath}
+\usepackage{array}
+\usepackage{wallpaper}
+\usepackage{epstopdf}
+\usepackage{notoccite} %% To avoid citations in List of figures
+\usepackage{soul} %% to underline without wraping text
+\usepackage{url}
+\usepackage[utf8]{inputenc}
+\usepackage{graphicx}
+\usepackage[left=1.5in, right=1.5in, top=1.25in, bottom=1.25in]{geometry}
+
+\usepackage{amsmath}
+\usepackage{amssymb}
+\usepackage{amsthm} 
+\usepackage{setspace}
+\usepackage{rotating}
+\usepackage{tikz}
+\usepackage{caption}
+\usepackage{mathrsfs}
+\usepackage{pstricks}
+\usepackage{fixmath}
+\usepackage{color}
+\usepackage{times}
+\usepackage{afterpage}
+\usepackage{longtable}
+\usepackage{cancel}  % for MET
+\usepackage{verbatim}
+% Counter commands
+\setcounter{page}{1}
+\setcounter{secnumdepth}{4}
+\setcounter{tocdepth}{3}
+%\setcounter{lofdepth}{2}
+\newcommand{\bra}[1]{\ensuremath{\left\langle#1\right|}}
+\newcommand{\ket}[1]{\ensuremath{\left|#1\right\rangle}}
+
+\usepackage{symbolDefn}
+
+\begin{document}
+
+\pagenumbering{arabic}
+
+\pagestyle{plain}
+
+\thispagestyle{empty}
+
+\begin{center}
+
+{\Large \textbf{Search for Quark Compositeness in $\mathbold{\gamma}$ $+$ jet final states in proton-proton collisions at $\mathbold{\sqrt{s}}$ = 13 TeV with the CMS Detector at the Large Hadron Collider}}
+\vspace{1cm}
+
+\noindent{\large{A SYNOPSIS FOR THE DEGREE OF\\
+    \textbf{DOCTOR OF PHILOSOPHY}}}\\
+
+\vspace{8mm}
+\begin{figure}[h]
+\centering
+\includegraphics[width=4cm]{DU_logo.png}
+\end{figure}
+
+\vspace{13mm}
+\noindent\uppercase{\large{\vspace{2cm} \textbf{Rocky Bala Garg}\\}}
+\vspace{15mm}
+\uppercase{\large{\textbf{Prof. Brajesh C. Choudhary} \hspace{0.9cm} \textbf{Prof. Sanjay Jain}}}\\
+\uppercase{\hspace{2.2cm}\small{Supervisor \hspace{4.3cm} Head of the Department}}\\
+
+\vspace{10mm}
+
+\noindent\uppercase{{Department of Physics \& Astrophysics}}\\
+\noindent\uppercase{{University of Delhi}}\\
+\noindent\uppercase{{Delhi - 110 007\\ India}}\\
+\vspace{5mm}
+\noindent\uppercase{ \textbf{2018}}\\ 
+\end{center}
+
+\thispagestyle{empty}
+
+%% ABSTRACT
+\begin{center}
+  \clearpage
+  \vspace{5mm}
+  \noindent\uppercase{\Large \textbf{Abstract}}
+  \vspace{1cm}
+\end{center}
+Quarks and leptons are considered as fundamental particles within the context of the standard model of particle physics. However, a number of unexplained phenomena
+incorporated within the standard model predict the existence of some new physics beyond the standard model. The existence of three generations of quarks and
+leptons lead to the
+possibility of an underlying sub-structure. A variety of models, referred to as, the compositeness models, consider the quarks and leptons to be made up of
+more fundamental particles, known as ``preons''. A convincing signature of the quarks sub-structure is the observation of their excited states.
+These excited quarks are supposed to interact with their standard model counterparts through gauge interactions for the compositeness scale, $\Lambda\le\sqrt{s}$.
+Various searches have been performed but no evidence of excited states has been found yet. 
+
+This thesis presents a search for the excited states of light u, d and heavy b flavor quarks, respectively, in the $\gamjet$ and $\gambjet$ final states using the
+pp collision data at $\sqrt{s}$ $=$ 13\unit{TeV} collected by the CMS detector during 2016. This data correspond to a total integrated luminosity of
+35.9\unit{\fbinv}. The excited quark signals, if exist, will show their presence in the form of bumps over the continuous invariant mass distribution spectra 
+of $\gamjet$ and $\gambjet$ states respectively. Many standard model processes can also imitate these final states, thereby, forming
+the backgrounds for this study. This analysis has two main backgrounds coming from SM $\gamjet$ and QCD dijet processes, with a small contribution from W$/$Z $+$ jet
+processes. The MC samples corresponding to these backgrounds are used to validate the data as per the standard model expectations.
+The actual background of this study has been obtained by using a data driven technique. The excited quarks signals are generated and simulated using
+the event generator \pythia to scan a broad mass range.
+
+In the absence of any expected signal, upper limits on the cross-sections or lower limits on the masses of excited quarks have been set at the 95$\%$ confidence level
+using the frequentist approach in the asymptotic approximation. A comparison of cross-section upper limits has been made with the theoretical predictions of
+excited quarks in order to set the lower mass limits on the excited states. The excited light quarks within the mass range
+1.0 $<$ M$_{\qstar}$ $<$ 5.5\unit{TeV} and excited b-quarks within the mass range 1.0 $<$ M$_{\bstar}$ $<$ 1.8\unit{TeV} are excluded at 95$\%$ confidence level,
+corresponding to standard model like coupling strengths. The limits presented in this thesis are the most
+sensitive limits for excited quark searches in the $\gamjet$ and $\gambjet$ final states. The search for the excited b-quarks has been presented for the first time
+in any final state at $\sqrt{s}$ $=$ 13\unit{TeV}.
+
+%% SYNOPSIS
+\begin{center}
+  \clearpage
+  \vspace{5mm}
+  \noindent\uppercase{\Large \textbf{\underline{SYNOPSIS}}}
+  \vspace{1cm}
+\end{center}
+\onehalfspacing
+Particle physics is a branch of physics that tries to answer the fundamental questions such as, what the world is made of and how it came into existence?
+It allows us to explore the
+frontiers and boundaries of the universe at the levels unmatched by any other field. It is also termed as ``High Energy Physics'' because it requires microscopic
+particles to interact at tremendously high energies to observe new and interesting phenomenon. The theoretical model that defines the properties of fundamental
+particles and their interactions is known as ``Standard Model'' (SM)~\cite{Glashow:1961tr, Salam:1964ry, Weinberg:1967tq,Gross:1973id, Politzer:1973fx}.
+The standard model incorporates three of the four fundamental interactions, namely electromagnetic, weak and strong, as well as classify all the known elementary
+particles. It is a quantum field theory based on a complex mathematical formulation which encodes all the information in the form of a mathematical description,
+known as ``Lagrangian''. Over the years, standard model has been able to explain a number of experimental evidences within its framework. Its most significant
+achievement is the prediction of the Higgs boson, discovered by the CMS and ATLAS experiments in 2012.
+Even after its huge success, the standard model can not be considered as a complete theory of nature. The biggest reason being the non-inclusion of gravity within its
+framework. It also describes only 5$\%$ of the universe, with no explanation for the rest of 95$\%$, which is made up of dark matter and dark energy.
+It also does not have any explanation for baryon asymmetry, neutrino oscillations and many other such phenomena. 
+
+The descriptions for such unexplained phenomena can only be achieved by theories which go beyond the standard model (BSM) of particle physics.
+A number of BSM theories have been proposed \eg supersymmetry, technicolor, extra-dimensions, compositeness \etc, to name a few.
+The study represented in this thesis is based on a model that considers the excited state of quarks ($\qstar$) and leptons ($\lstar$),
+also known as the compositeness models~\cite{Pati:1975md, Eichten:1983hw, Baur:1987ga, Baur:1989kv}.
+The prime motivation for these models are the presence of three quark and lepton generations with similar properties. This replication points toward
+some underlying structure identical in all the families. The most implicit signature of this sub-structure is the observation of a fermion (quark or lepton)
+in the excited state. The excited states behave as the resonance states which then eventually decay into SM particles. 
+
+The fundamental particles that quarks and leptons are considered to be composed of, are known as ``preons''. These preons are postulated to experience a new kind of
+force that becomes very strong at a particular scale $\Lambda$, known as the compositeness scale, forming quarks and leptons bound states. 
+Excited quarks and leptons can interact with their ordinary counterparts through contact interactions for $\Lambda$ $>>$ $\sqrt{s}$ and through gauge
+mediation for $\Lambda$ $<$ $\sqrt{s}$, where $\sqrt{s}$ is the center of mass energy. The model used in this study assumes compositeness scale, $\Lambda$
+$<$ $\sqrt{s}$, and mass scale of excited quarks $M_{\qstar}$ = $\Lambda$. In this regime, the gauge interactions dominate over contact interactions.
+This model~\cite{Baur:1989kv} considers a $SU(3)$ $\times$ $SU(2)$ $\times$ $U(1)$ symmetry with ground state quarks in the
+form of left-handed doublets and right-handed singlets while the excited state quarks in the form of left- and right-handed doublets. 
+The gauge interaction mediated between ordinary and excited quarks by gauge bosons is obtained through the
+requirement of gauge invariance and is of magnetic-moment type, defined by the effective Lagrangian:
+\begin{equation}
+{\mathcal L}_{int} = \frac{1}{2\,\Lambda}\bar{q^{\ast}_{R}} \, \sigma^{\mu\nu}
+\left[g_{s}f_{s}\frac{\lambda^{a}}{2}G^{a}_{\mu\nu}\;+\;gf\frac{\tau^{b}}{2}W_{\mu\nu}^{b}\;+\;g'f'\frac{Y}{2}B_{\mu\nu} \right] q_{L} + h.c.,
+\label{eq:Lagrangian1}
+\end{equation}
+Here $G^{a}_{\mu\nu}$, $W_{\mu\nu}$, and $B_{\mu\nu}$ are the field-strength tensors for $SU(3)$, $SU(2)$, and $U(1)$ interactions, while $\lambda_{a}$, $\tau_{b}$, $Y$
+are the corresponding generators. The constants $f_{s}$, $f$ and $f'$ determine the strength of a coupling and are
+evaluated using the compositeness dynamics. These are considered to be equal to unity to allow for the standard model like coupling strengths. 
+A composite quark can acquire an excited state by the absorption of a gluon and will radiate a photon, gluon or weak boson on returning to the ground state.
+This study considers an excited light ($\ustar,\dstar$) and heavy ($\bstar$) flavor quark decaying into a quark and a photon final state.
+
+In this thesis, a complete analysis of this final state has been presented to search for any possible signature of excited quarks.
+The thesis has been organized in five chapters. A brief description of each chapter is provided below. 
+
+\textbf{Chapter one} describes the evolution of particle physics and highlights the important milestone discoveries as well as
+the remarkable contributions from various scientists. It further provides an overview of the underlying theoretical framework of the standard model of particle physics,
+illustrating its three landmark theories: Quantum Electrodynamics, Electroweak unification
+and Quantum Chromodynamics, as well as the Higgs mechanism~\cite{Higgs:1964ia, Englert:1964et, Higgs:1964pj, Guralnik:1964eu, Higgs:1966ev}.
+It lists the various shortcomings of standard model and the requirements for a more versatile theory. In the end, this chapter also gives a
+broad idea of the excited quark model used in this study.
+
+\textbf{Chapter two} discusses about the experimental apparatus used to accumulate the data to perform this important study. A detailed description of
+the design and performance of the ``Large Hadron Collider'' (LHC)~\cite{Bruning:782076, Evans:2008zzb} accelerator
+and ``Compact Muon Solenoid'' (CMS)~\cite{cmsTDR} detector, housed at the
+``European Organization for Nuclear Research'' (CERN) on the Swiss-French border in Geneva, Switzerland, has been provided. The Big-Bang theory explaining the origin
+of the universe and the usefulness of LHC in re-creating the similar situations in the laboratory has been explained. The CERN accelerator complex~\cite{Web:CERN}
+consists of a number of
+accelerating facilities deployed to provide acceleration to the proton beam. A list of the important parameters of LHC has been provided in the form of a table.
+A detailed explanation of the CMS detector along with its various sub-detectors, the main experimental challenges faced by it, the co-ordinate system used,
+\etc has been provided. A section explaining the CMS trigger and data acquisition system~\cite{triggerTDR, daqhltTDR}
+as well as the process of CMS data management has also been documented. 
+
+\textbf{Chapter three} took up the discussions of event reconstruction~\cite{Lange:2011zza} and event simulation~\cite{robert2004monte} processes at CMS.
+The detector provides information about the collisions
+and the undergoing physics processes in the form of electronic signals only. A number of steps are to be followed to obtain a meaningful physics result from these
+raw information.
+The RAW data in the form of digitized electronic signals is made to pass through a software based multi-level process which results into the events reconstruction.
+For the purpose of calibration and comparison, the behaviour of particles within the detector is also simulated by the use of event generators.
+This chapter also details the different steps and procedures used in the reconstruction and simulation of the events for CMS physics analyses. The event reconstruction
+step considers the track and vertex reconstruction as well as the various objects reconstruction and identification. The event simulation step considers the event
+generation as well as the detector simulation.
+
+\textbf{Chapter four} reports the various steps and procedures followed in the analysis of the CMS data to look for any signatures of excited light- and heavy-quark
+presence in $\gamjet$ final states. The analysis strategy emphasizing the importance of invariant mass distribution spectrum of $\gamjet$ system has been documented.
+This chapter also presents the detailed overview of the signals and backgrounds for this study,
+along with the data and MC samples used. The event selection process to select the events
+with a good photon and a good jet per event has been given in great detail. Based on the event selection, three different categories for \qstar and \bstar search have been
+formed. A trigger requirement of a high pt photon is implemented to select an initial set of events. The data events are also subjected to some noise cleaning
+filters. The officially recommended identification criteria has been used to select photons and jets. For \bstar search, the jets are also filtered through
+b-tagging algorithms. The different selections used in this analysis are optimized to obtain best expected resonance mass limits.
+The data sample consists of a $\gamjet$ event
+with a highest invariant mass of 4.6\unit{TeV}. The background for this study has been estimated using a data driven technique which makes use of a polynomial function
+fit with the data. The frequentist approach in asymptotic approximation has been used to determine the mass limits on \qstar and \bstar resonances. The final results
+are presented in the form of significance of largest fluctuations in data and the lower mass limits on \qstar and \bstar resonances. 
+
+\textbf{Chapter five} provides the summary and conclusions for this thesis. The final mass limits on the \qstar and \bstar resonances have been
+documented and these limits are reported to be the best limits obtained so far
+in $\gamjet$ final state. The results of this analysis have been accepted for publication in Physics Letters B (Ref.\ No.\: PLB$-$D$-$17$-$01732R1). 
+
+\newpage
+\bibliographystyle{CMSPubComm}
+\bibliography{Synopsis_ref}
+
+\newpage
+\begin{center}
+  \textbf{\large{\underline{List of Publications}}}
+  \begin{itemize}
+  \item \textbf{Search for excited quarks of light and heavy flavor in $\mathbold{\gamma}$ $+$ jet final states in proton-proton collisions at $\mathbold{\sqrt{s}}$
+    = 13 TeV}
+    \begin{itemize}
+    \item Authors: CMS Collaboration.
+    \item Journal: Accepted for publication in Physics Letters B (Ref.\ No.\: PLB$-$D$-$17$-$01732R1).
+    \item Impact Factor: 4.8.
+    %\item DOI: 
+    %\item Journal Reference: 
+    \item ArXiv id: arXiv:1711.04652.
+      \item CMS Analysis Note: CMS-AN-16-462: Brajesh C. Choudhary, Rocky Bala Garg, Varun Sharma.
+    \end{itemize}
+  \item \textbf{Search for excited states of light and heavy flavor quarks in the $\mathbold{\gamma}$ $+$ jet final state in proton-proton collisions
+    at $\mathbold{\sqrt{s}}$ = 13 TeV}
+    \begin{itemize}
+    \item Authors: CMS Collaboration.
+    \item Physics Analysis Summary: CMS-PAS-EXO-17-002.
+    \item ArXiv id: arXiv:1711.04652.
+    \item CMS Analysis Note: CMS-AN-16-462: Brajesh C. Choudhary, Rocky Bala Garg, Varun Sharma.
+    \end{itemize}
+  \item \textbf{Search for excited quarks in $\mathbold{\gamma}$ $+$ jet final state in proton-proton collisions at $\mathbold{\sqrt{s}}$ = 13 TeV}
+    \begin{itemize}
+    \item Authors: CMS Collaboration.
+    \item Physics Analysis Summary: CMS-PAS-EXO-16-015.
+    \item CDS entry: http://cds.cern.ch/record/2204915.
+      \item CMS Analysis Note: CMS-AN-15-262: Brajesh C. Choudhary, Rocky Bala Garg, Varun Sharma.
+    \end{itemize}
+  \end{itemize}
+\end{center}
+\pagebreak
+\begin{center}
+  \textbf{\large{\underline{Participation in Conferences / Workshops / Schools}}}
+  \begin{itemize}
+  \item Presented a poster titled \textbf{``Quark substructure at CMS''} at the XXII DAE$-$BRNS High Energy Physics Symposium held at the University of Delhi,
+    December 12$-$16, 2016.
+  %\item \textbf{Exotica general meeting during approval for EPS17}: Presented approval talk for excited light and heavy flavor quark analysis on June 29, 2017.
+  %\item \textbf{Exotica general meeting}: Presented Pre-approval talk for excited light and heavy flavor quark analysis on April 5, 2017.
+  %\item \textbf{Exotica Non-Hadronic subgroup meeting}: Regularly presented the status of excited light and heavy flavor quark analysis at center of mass energy of 13 TeV.
+  %\item \textbf{Xsec task force meeting}: Presented a talk on ``k-factor calculation for $\gamma$ $+$ jet sample using MCFM software'', on February 15, 2016.
+  \item Attended a symposium on \textbf{``Particle physics at the crossroads''}, organized by the University of Delhi and University of Edinburgh
+    and held at the India International Center, New Delhi, India, February 15$-$17, 2013.
+  \item Attended workshop on \textbf{``Whats next at LHC''} at the Tata Institute of Fundamental Research, Mumbai, India, January 6$-$8, 2014.
+  \item Attended \textbf{``IX$^{\textrm{th}}$ SERC School on Experimental High Energy Physics''} held at the Department of Physics, IIT Madras, Chennai, India,
+    December 2$-$21, 2013.
+  %\item Attended \textbf{``CMS Data Analysis School''} held at Saha Institute of Nuclear Physics, Kolkata, India (November 7 - 11, 2013).
+  %\item Attended workshop on \textbf{``Information Literacy and Competency''} held at the University of Delhi, India (January 17 - 18, 2013).
+  \item Attended \textbf{``XXIV SERC Preparatory School on Theoretical High Energy Physics''} held at the Department of Physics, University of North Bengal,
+    Darjeeling, West Bengal, India,  September 10$-$October 8, 2012.
+  \end{itemize}
+\end{center}
+\pagebreak
+\begin{center}
+  \textbf{\large{Registration Details}}
+  \begin{itemize}
+  \item \textbf{Thesis title:} Search for Quark Compositeness in $\gamma$ $+$ jet final states in proton-proton collisions at $\sqrt{s}$ = 13 TeV with the CMS
+    Detector at the Large Hadron Collider.
+  \item \textbf{Research Scholar:} Rocky Bala Garg
+  \item \textbf{Thesis Supervisor:} Prof. Brajesh C. Choudhary
+  \item \textbf{Department of Affiliation:} Department of Physics $\&$ Astrophysics
+  \item \textbf{Ph.D. Registration No:} SF-I/Ph.D./488
+   \item \textbf{Date of Registration:} October 18, 2011
+  \end{itemize}
+\end{center}
+
+
+
+
+\end{document}

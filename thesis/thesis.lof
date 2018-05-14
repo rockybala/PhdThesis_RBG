@@ -1,0 +1,185 @@
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {1.1}{\ignorespaces A timeline of particle discoveries.\relax }}{6}{figure.caption.9}
+\contentsline {figure}{\numberline {1.2}{\ignorespaces $W^{{\mu }3}$-$B^{\mu }$ plane\relax }}{17}{figure.caption.13}
+\contentsline {figure}{\numberline {1.3}{\ignorespaces A potential with real scalar field $V(\phi )$ = $\mu ^{2}\phi ^{2}$ + $\lambda {\phi ^{4}}$ before and after spontaneous symmetry breaking.\relax }}{19}{figure.caption.14}
+\contentsline {figure}{\numberline {1.4}{\ignorespaces Feynman diagrams for $\ensuremath {\mathrm {q^\star }}\xspace $ $\rightarrow $ $\gamma $ + jet final state with (a) quark-gluon fusion (b) quark-antiquark annihilation (c) gluon-gluon fusion processes. Whereas the light quarks will show their presence in all the three modes, heavy bottom quark will appear only in quark-gluon fusion and quark-antiquark annihilation.\relax }}{24}{figure.caption.16}
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {qg fusion}}}{24}{subfigure.4.1}
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {q$\mathaccentV {bar}016{\textrm {q}}$ annihilation}}}{24}{subfigure.4.2}
+\contentsline {subfigure}{\numberline {(c)}{\ignorespaces {gg fusion}}}{24}{subfigure.4.3}
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {2.1}{\ignorespaces Big-Bang timeline.\relax }}{28}{figure.caption.17}
+\contentsline {figure}{\numberline {2.2}{\ignorespaces A schematic layout of the LHC tunnel.\relax }}{30}{figure.caption.18}
+\contentsline {figure}{\numberline {2.3}{\ignorespaces A Radio Frequency cavity.\relax }}{30}{figure.caption.19}
+\contentsline {figure}{\numberline {2.4}{\ignorespaces A sketch showing formation of a bunch.\relax }}{30}{figure.caption.20}
+\contentsline {figure}{\numberline {2.5}{\ignorespaces The LHC twin-bore magnet system\relax }}{32}{figure.caption.21}
+\contentsline {figure}{\numberline {2.6}{\ignorespaces A schematic view of CERN accelerator complex representing the different accelerators deployed for providing acceleration to the proton beam.\relax }}{33}{figure.caption.22}
+\contentsline {figure}{\numberline {2.7}{\ignorespaces Total integrated luminosity delivered by the LHC and recorded by CMS as a function of time, during the year 2016\nobreakspace {}\cite {Web:CMSLumi}.\relax }}{35}{figure.caption.24}
+\contentsline {figure}{\numberline {2.8}{\ignorespaces A layout of the CMS experiment at CERN.\relax }}{36}{figure.caption.25}
+\contentsline {figure}{\numberline {2.9}{\ignorespaces Longitudinal contour of a quadrant of the CMS detector.\relax }}{37}{figure.caption.26}
+\contentsline {figure}{\numberline {2.10}{\ignorespaces A cross-sectional view of the CMS tracker system in $r$-$z$ plane, with each line representing a silicon detector module.\relax }}{39}{figure.caption.27}
+\contentsline {figure}{\numberline {2.11}{\ignorespaces A schematic layout of the CMS pixel detector.\relax }}{40}{figure.caption.28}
+\contentsline {figure}{\numberline {2.12}{\ignorespaces A schematic representation of the upgrades in pixel detector barrel (left) and endcaps (right) during Phase1 Pixel Upgrade.\relax }}{41}{figure.caption.29}
+\contentsline {figure}{\numberline {2.13}{\ignorespaces Performance measurement of the older pixel detector (blue) and the upgrade pixel detector (red) using $\textrm {t}\mathaccentV {bar}016{\textrm {t}}$ events, showing tracking efficiency (left) and fake rate (right) as a function of per event pileup\nobreakspace {}\cite {1748-0221-9-03-C03041}.\relax }}{42}{figure.caption.30}
+\contentsline {figure}{\numberline {2.14}{\ignorespaces A layout of the CMS Electromagnetic calorimeter displaying the arrangement of crystals in barrel and endcaps with the preshower present in front.\relax }}{44}{figure.caption.31}
+\contentsline {figure}{\numberline {2.15}{\ignorespaces A schematic view of a quadrant of the CMS Hadron calorimeter presenting different sub-detectors (in yellow color).\relax }}{47}{figure.caption.32}
+\contentsline {figure}{\numberline {2.16}{\ignorespaces A schematic view of the solenoidal magnet used in the CMS detector, showing the coil and the central return yoke.\relax }}{49}{figure.caption.33}
+\contentsline {figure}{\numberline {2.17}{\ignorespaces A schematic view of the solenoidal magnet used in CMS, showing the coil and the central return yoke. The trajectory of a muon through the muon stations is also presented.\relax }}{50}{figure.caption.34}
+\contentsline {figure}{\numberline {2.18}{\ignorespaces CMS Data Acquisition and trigger system.\relax }}{53}{figure.caption.35}
+\contentsline {figure}{\numberline {2.19}{\ignorespaces An architecture of CMS Level-1 trigger system.\relax }}{54}{figure.caption.36}
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {3.1}{\ignorespaces A diagrammatic representation of an event processing chain.\relax }}{59}{figure.caption.37}
+\contentsline {figure}{\numberline {3.2}{\ignorespaces A graphical representation of the trajectories of various particles through the CMS detector.\relax }}{61}{figure.caption.38}
+\contentsline {figure}{\numberline {3.3}{\ignorespaces Different steps of CMS reconstruction program.\relax }}{61}{figure.caption.39}
+\contentsline {figure}{\numberline {3.4}{\ignorespaces Various steps followed in reconstruction of particles inside ECAL.\relax }}{66}{figure.caption.40}
+\contentsline {figure}{\numberline {3.5}{\ignorespaces An illustration of the Hybrid algorithm used for clustering in ECAL barrel region.\relax }}{67}{figure.caption.41}
+\contentsline {figure}{\numberline {3.6}{\ignorespaces An illustration showing overlapping of two Multi5$\times $5 clusters. Clusters in yellow are eligible to seed other Multi5$\times $5 clusters if they form the local energy maxima. The mechanism of formation of a supercluster using many multi5$\times $5 clusters is also shown.\relax }}{69}{figure.caption.42}
+\contentsline {figure}{\numberline {3.7}{\ignorespaces A pictorial representation of a jet.\relax }}{73}{figure.caption.43}
+\contentsline {figure}{\numberline {3.8}{\ignorespaces The behaviour of different jet clustering algorithms.\relax }}{75}{figure.caption.44}
+\contentsline {figure}{\numberline {3.9}{\ignorespaces Different jet energy correction levels applied to data and MC.\relax }}{77}{figure.caption.45}
+\contentsline {figure}{\numberline {3.10}{\ignorespaces A depiction of a b-jet emerging from the primary vertex.\relax }}{79}{figure.caption.46}
+\contentsline {figure}{\numberline {3.11}{\ignorespaces An illustration of b-tagging algorithms.\relax }}{79}{figure.caption.47}
+\contentsline {figure}{\numberline {3.12}{\ignorespaces Event simulation and data analysis chain.\relax }}{82}{figure.caption.48}
+\contentsline {figure}{\numberline {3.13}{\ignorespaces Sequential steps involved in the formation of an event.\relax }}{84}{figure.caption.49}
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {4.1}{\ignorespaces Feynman diagrams for quark-gluon fusion process in s and t channel.\relax }}{89}{figure.caption.50}
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {s-channel}}}{89}{subfigure.1.1}
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {t-channel}}}{89}{subfigure.1.2}
+\contentsline {figure}{\numberline {4.2}{\ignorespaces Standard model background contribution from $\ensuremath {\gamma +\mathrm {jet}}\xspace $ processes.\relax }}{89}{figure.caption.51}
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {qg compton scattering}}}{89}{subfigure.2.1}
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {q$\mathaccentV {bar}016{q}$ annihilation}}}{89}{subfigure.2.2}
+\contentsline {subfigure}{\numberline {(c)}{\ignorespaces {gg fusion}}}{89}{subfigure.2.3}
+\contentsline {figure}{\numberline {4.3}{\ignorespaces Standard model background contribution from QCD dijet processes.\relax }}{90}{figure.caption.52}
+\contentsline {figure}{\numberline {4.4}{\ignorespaces Bremsstrahlung contribution to SM QCD dijet production.\relax }}{90}{figure.caption.53}
+\contentsline {figure}{\numberline {4.5}{\ignorespaces Background contributions from electroweak processes.\relax }}{91}{figure.caption.54}
+\contentsline {figure}{\numberline {4.6}{\ignorespaces Signal shapes for \ensuremath {\mathrm {q^\star }}\xspace (left) and \ensuremath {\mathrm {b^\star }}\xspace (right) for different masses and couplings.\relax }}{95}{figure.caption.58}
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {\ensuremath {\mathrm {q^\star }}\xspace , $f = 1.0$}}}{95}{subfigure.6.1}
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {\ensuremath {\mathrm {b^\star }}\xspace , $f = 1.0$}}}{95}{subfigure.6.2}
+\contentsline {subfigure}{\numberline {(c)}{\ignorespaces {\ensuremath {\mathrm {q^\star }}\xspace , $f = 0.5$}}}{95}{subfigure.6.3}
+\contentsline {subfigure}{\numberline {(d)}{\ignorespaces {\ensuremath {\mathrm {b^\star }}\xspace , $f = 0.5$}}}{95}{subfigure.6.4}
+\contentsline {subfigure}{\numberline {(e)}{\ignorespaces {\ensuremath {\mathrm {q^\star }}\xspace , $f = 0.1$}}}{95}{subfigure.6.5}
+\contentsline {subfigure}{\numberline {(f)}{\ignorespaces {\ensuremath {\mathrm {b^\star }}\xspace , $f = 0.1$}}}{95}{subfigure.6.6}
+\contentsline {figure}{\numberline {4.7}{\ignorespaces Data-MC comparison of the number of vertices in an event, showing the effect of pile-up re-weighting.\relax }}{98}{figure.caption.60}
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {Without PU weight}}}{98}{subfigure.7.1}
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {With PU weight}}}{98}{subfigure.7.2}
+\contentsline {figure}{\numberline {4.8}{\ignorespaces Relative and absolute trigger efficiencies for the single photon trigger, HLT\_Photon165\_HE10.\relax }}{100}{figure.caption.62}
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {Rel. Efficiency}}}{100}{subfigure.8.1}
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {Abs. Efficiency (JetHT)}}}{100}{subfigure.8.2}
+\contentsline {subfigure}{\numberline {(c)}{\ignorespaces {Abs. Efficiency (Muon)}}}{100}{subfigure.8.3}
+\contentsline {figure}{\numberline {4.9}{\ignorespaces Data-MC comparison of photon identification and isolation variables after final selection.\relax }}{104}{figure.caption.64}
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {$\ensuremath {\sigma _{i{\eta }i{\eta }}}\xspace $}}}{104}{subfigure.9.1}
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {Single Tower H$/$E}}}{104}{subfigure.9.2}
+\contentsline {subfigure}{\numberline {(c)}{\ignorespaces {R9}}}{104}{subfigure.9.3}
+\contentsline {subfigure}{\numberline {(d)}{\ignorespaces {PF Charged Hadron Isolation}}}{104}{subfigure.9.4}
+\contentsline {subfigure}{\numberline {(e)}{\ignorespaces {PF Photon Isolation}}}{104}{subfigure.9.5}
+\contentsline {subfigure}{\numberline {(f)}{\ignorespaces {PF Neutral Hadron Isolation}}}{104}{subfigure.9.6}
+\contentsline {figure}{\numberline {4.10}{\ignorespaces $\Delta R$ distribution between prompt gen photon matched to selected reco photon and other gen particles: (a) QCD before overlap removal, (b) $\ensuremath {\gamma +\mathrm {jet}}\xspace $ before overlap removal, (c) Stitching of QCD and $\ensuremath {\gamma +\mathrm {jet}}\xspace $ after overlap removal.\relax }}{105}{figure.caption.65}
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {QCD}}}{105}{subfigure.10.1}
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {$\ensuremath {\gamma +\mathrm {jet}}\xspace $}}}{105}{subfigure.10.2}
+\contentsline {subfigure}{\numberline {(c)}{\ignorespaces {Stitching of QCD and $\ensuremath {\gamma +\mathrm {jet}}\xspace $}}}{105}{subfigure.10.3}
+\contentsline {figure}{\numberline {4.11}{\ignorespaces $\ensuremath {p_{\mathrm T}}\xspace ^{\gamma }$ vs. $\ensuremath {p_{\mathrm T}}\xspace ^{\textrm {jet}}$ in 2-dimensional representation for \ensuremath {\mathrm {q^\star }}\xspace signals.\relax }}{106}{figure.caption.66}
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {M$_{\ensuremath {\mathrm {q^\star }}\xspace }$ = 2.0\ensuremath {\mathrm {\tmspace +\thinmuskip {.1667em}TeV}}\xspace }}}{106}{subfigure.11.1}
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {M$_{\ensuremath {\mathrm {q^\star }}\xspace }$ = 4.0\ensuremath {\mathrm {\tmspace +\thinmuskip {.1667em}TeV}}\xspace }}}{106}{subfigure.11.2}
+\contentsline {figure}{\numberline {4.12}{\ignorespaces Data-MC comparison of jet particle flow identification variables after final selection.\relax }}{107}{figure.caption.67}
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {Neutral Hadron Energy Fraction}}}{107}{subfigure.12.1}
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {Charged Hadron Energy Fraction}}}{107}{subfigure.12.2}
+\contentsline {subfigure}{\numberline {(c)}{\ignorespaces {Neutral EM Energy Fraction}}}{107}{subfigure.12.3}
+\contentsline {subfigure}{\numberline {(d)}{\ignorespaces {Charged EM Energy Fraction}}}{107}{subfigure.12.4}
+\contentsline {subfigure}{\numberline {(e)}{\ignorespaces {Number of Constituents}}}{107}{subfigure.12.5}
+\contentsline {subfigure}{\numberline {(f)}{\ignorespaces {Charged Multiplicity}}}{107}{subfigure.12.6}
+\contentsline {figure}{\numberline {4.13}{\ignorespaces Data-MC comparison of CSVv2 discriminator distribution before and after applying the b-tagging.\relax }}{108}{figure.caption.68}
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {no b-tag}}}{108}{subfigure.13.1}
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {0 b-tag}}}{108}{subfigure.13.2}
+\contentsline {subfigure}{\numberline {(c)}{\ignorespaces {1 b-tag}}}{108}{subfigure.13.3}
+\contentsline {figure}{\numberline {4.14}{\ignorespaces Turn-on due to various kinematical selections, plotted for different jet \ensuremath {p_{\mathrm T}}\xspace cuts.\relax }}{109}{figure.caption.69}
+\contentsline {figure}{\numberline {4.15}{\ignorespaces The product of acceptance and efficiency as a function of \ensuremath {\mathrm {q^\star }}\xspace and \ensuremath {\mathrm {b^\star }}\xspace mass for SM coupling, $f$ $=$ 1.0, obtained using MC simulation.\relax }}{111}{figure.caption.73}
+\contentsline {figure}{\numberline {4.16}{\ignorespaces Data-MC comparison of \ensuremath {p_{\mathrm T}}\xspace distribution of photons and jets for three categories: no b-tag, 1 b-tag and 0 b-tag.\relax }}{112}{figure.caption.74}
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {$\ensuremath {p_{\mathrm T}}\xspace ^{\gamma }$}}}{112}{subfigure.16.1}
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {$\ensuremath {p_{\mathrm T}}\xspace ^{\textrm {jet}}$}}}{112}{subfigure.16.2}
+\contentsline {subfigure}{\numberline {(c)}{\ignorespaces {$\ensuremath {p_{\mathrm T}}\xspace ^{\gamma }(1 \textrm { b-tag})$}}}{112}{subfigure.16.3}
+\contentsline {subfigure}{\numberline {(d)}{\ignorespaces {$\ensuremath {p_{\mathrm T}}\xspace ^{\textrm {jet}}(1 \textrm { b-tag})$}}}{112}{subfigure.16.4}
+\contentsline {subfigure}{\numberline {(e)}{\ignorespaces {$\ensuremath {p_{\mathrm T}}\xspace ^{\gamma }(0 \textrm { b-tag})$}}}{112}{subfigure.16.5}
+\contentsline {subfigure}{\numberline {(f)}{\ignorespaces {$\ensuremath {p_{\mathrm T}}\xspace ^{\textrm {jet}}(0 \textrm { b-tag})$}}}{112}{subfigure.16.6}
+\contentsline {figure}{\numberline {4.17}{\ignorespaces Data-MC comparison of $\eta $ distribution of photons and jets for three categories: no b-tag, 1 b-tag and 0 b-tag.\relax }}{113}{figure.caption.75}
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {${\eta }^{\gamma }$}}}{113}{subfigure.17.1}
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {${\eta }^{\textrm {jet}}$}}}{113}{subfigure.17.2}
+\contentsline {subfigure}{\numberline {(c)}{\ignorespaces {${\eta }^{\gamma }(1 \textrm { b-tag})$}}}{113}{subfigure.17.3}
+\contentsline {subfigure}{\numberline {(d)}{\ignorespaces {${\eta }^{\textrm {jet}}(1 \textrm { b-tag})$}}}{113}{subfigure.17.4}
+\contentsline {subfigure}{\numberline {(e)}{\ignorespaces {${\eta }^{\gamma }(0 \textrm { b-tag})$}}}{113}{subfigure.17.5}
+\contentsline {subfigure}{\numberline {(f)}{\ignorespaces {${\eta }^{\textrm {jet}}(0 \textrm { b-tag})$}}}{113}{subfigure.17.6}
+\contentsline {figure}{\numberline {4.18}{\ignorespaces Data-MC comparison of ${\phi }$ distribution of photons and jets for three categories: no b-tag, 1 b-tag and 0 b-tag.\relax }}{114}{figure.caption.76}
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {${\phi }^{\gamma }$}}}{114}{subfigure.18.1}
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {${\phi }^{\textrm {jet}}$}}}{114}{subfigure.18.2}
+\contentsline {subfigure}{\numberline {(c)}{\ignorespaces {${\phi }^{\gamma }(1 \textrm { b-tag})$}}}{114}{subfigure.18.3}
+\contentsline {subfigure}{\numberline {(d)}{\ignorespaces {${\phi }^{\textrm {jet}}(1 \textrm { b-tag})$}}}{114}{subfigure.18.4}
+\contentsline {subfigure}{\numberline {(e)}{\ignorespaces {${\phi }^{\gamma }(0 \textrm { b-tag})$}}}{114}{subfigure.18.5}
+\contentsline {subfigure}{\numberline {(f)}{\ignorespaces {${\phi }^{\textrm {jet}}(0 \textrm { b-tag})$}}}{114}{subfigure.18.6}
+\contentsline {figure}{\numberline {4.19}{\ignorespaces Distributions of photons and jets in $\Delta \eta $ (above left), $\Delta \phi $ (above right), and $\Delta $R (below).\relax }}{115}{figure.caption.77}
+\contentsline {figure}{\numberline {4.20}{\ignorespaces Number of photons (above left), jets (above right), and b-jets (below) per event in Data-MC.\relax }}{115}{figure.caption.78}
+\contentsline {figure}{\numberline {4.21}{\ignorespaces Data-MC comparison of invariant mass distribution of $\ensuremath {\gamma +\mathrm {jet}}\xspace $ in three categories: no b-tag, 1 b-tag and 0 b-tag.\relax }}{116}{figure.caption.79}
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {M$_{\ensuremath {\gamma +\mathrm {jet}}\xspace }$}}}{116}{subfigure.21.1}
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {M$_{\ensuremath {\gamma +\mathrm {jet}}\xspace }$(1 b-tag)}}}{116}{subfigure.21.2}
+\contentsline {subfigure}{\numberline {(c)}{\ignorespaces {M$_{\ensuremath {\gamma +\mathrm {jet}}\xspace }$(0 b-tag)}}}{116}{subfigure.21.3}
+\contentsline {figure}{\numberline {4.22}{\ignorespaces Expected 95$\%$ CL upper limits on $\sigma $ $\times $ BR $\times $ A $\times $ $\epsilon $ versus \ensuremath {\mathrm {q^\star }}\xspace mass for different photon ID cuts corresponding to SM coupling $f$ $=$ 1.0.\relax }}{117}{figure.caption.81}
+\contentsline {figure}{\numberline {4.23}{\ignorespaces Expected 95$\%$ CL upper limits on $\sigma $ $\times $ BR $\times $ A $\times $ $\epsilon $ versus \ensuremath {\mathrm {q^\star }}\xspace mass for different ${\Delta }{\eta }$ cuts corresponding to SM coupling $f$ $=$ 1.0.\relax }}{118}{figure.caption.83}
+\contentsline {figure}{\numberline {4.24}{\ignorespaces Expected 95$\%$ CL upper limits on $\sigma $ $\times $ BR $\times $ A $\times $ $\epsilon $ versus \ensuremath {\mathrm {q^\star }}\xspace mass for different ${\Delta }{\phi }$ cuts corresponding to SM coupling $f$ $=$ 1.0.\relax }}{119}{figure.caption.85}
+\contentsline {figure}{\numberline {4.25}{\ignorespaces Expected 95$\%$ CL upper limits on $\sigma $ $\times $ BR $\times $ A $\times $ $\epsilon $ versus \ensuremath {\mathrm {q^\star }}\xspace mass for different CSVv2 cuts corresponding to SM coupling $f$ $=$ 1.0.\relax }}{119}{figure.caption.87}
+\contentsline {figure}{\numberline {4.26}{\ignorespaces Event display for the highest invariant mass event at M$_{\ensuremath {\gamma +\mathrm {jet}}\xspace }$ $=$ 4616.69\ensuremath {\mathrm {\tmspace +\thinmuskip {.1667em}GeV}}\xspace . This event has the jet tagged as a b-jet, thereby, forming a highest \ensuremath {\mathrm {q^\star }}\xspace as well as highest \ensuremath {\mathrm {b^\star }}\xspace event.\relax }}{120}{figure.caption.88}
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {$\rho $-$\phi $ plane}}}{120}{subfigure.26.1}
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {3-dimensional plane}}}{120}{subfigure.26.2}
+\contentsline {figure}{\numberline {4.27}{\ignorespaces Event display for the 2$^{\textrm {nd}}$ highest invariant mass event at M$_{\ensuremath {\gamma +\mathrm {jet}}\xspace }$ $=$ 4595.43\ensuremath {\mathrm {\tmspace +\thinmuskip {.1667em}GeV}}\xspace .\relax }}{120}{figure.caption.89}
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {$\rho $-$\phi $ plane}}}{120}{subfigure.27.1}
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {3-dimensional plane}}}{120}{subfigure.27.2}
+\contentsline {figure}{\numberline {4.28}{\ignorespaces Fitting the core of invariant mass of \ensuremath {\mathrm {q^\star }}\xspace signal at different masses for $f$ $=$ 1.0, using Breit-Wigner (Blue), Crystal-Ball (Red), and Gaussian (Green) functions to obtain the resonance width of the signal.\relax }}{122}{figure.caption.90}
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {M$_{\ensuremath {\mathrm {q^\star }}\xspace }$ $=$ 1000\ensuremath {\mathrm {\tmspace +\thinmuskip {.1667em}GeV}}\xspace }}}{122}{subfigure.28.1}
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {M$_{\ensuremath {\mathrm {q^\star }}\xspace }$ $=$ 2000\ensuremath {\mathrm {\tmspace +\thinmuskip {.1667em}GeV}}\xspace }}}{122}{subfigure.28.2}
+\contentsline {subfigure}{\numberline {(c)}{\ignorespaces {M$_{\ensuremath {\mathrm {q^\star }}\xspace }$ $=$ 3000\ensuremath {\mathrm {\tmspace +\thinmuskip {.1667em}GeV}}\xspace }}}{122}{subfigure.28.3}
+\contentsline {figure}{\numberline {4.29}{\ignorespaces Polynomial fitting of mass resolution vs.\ resonance mass to obtain variable binning parameters.\relax }}{122}{figure.caption.91}
+\contentsline {figure}{\numberline {4.30}{\ignorespaces Alternate generated (solid line) and interpolated (dotted line) shapes for different \ensuremath {\mathrm {q^\star }}\xspace mass points.\relax }}{123}{figure.caption.92}
+\contentsline {figure}{\numberline {4.31}{\ignorespaces Comparison of generated and interpolated shapes at different \ensuremath {\mathrm {q^\star }}\xspace mass points.\relax }}{124}{figure.caption.93}
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {\ensuremath {\mathrm {q^\star }}\xspace $=$ 2.0\ensuremath {\mathrm {\tmspace +\thinmuskip {.1667em}TeV}}\xspace }}}{124}{subfigure.31.1}
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {\ensuremath {\mathrm {q^\star }}\xspace $=$ 4.0\ensuremath {\mathrm {\tmspace +\thinmuskip {.1667em}TeV}}\xspace }}}{124}{subfigure.31.2}
+\contentsline {subfigure}{\numberline {(c)}{\ignorespaces {\ensuremath {\mathrm {q^\star }}\xspace $=$ 6.0\ensuremath {\mathrm {\tmspace +\thinmuskip {.1667em}TeV}}\xspace }}}{124}{subfigure.31.3}
+\contentsline {figure}{\numberline {4.32}{\ignorespaces The F-test distributions for fitting of function $F1$ with \ensuremath {\mathrm {q^\star }}\xspace invariant mass, for 3 and 4 parameters, showing that $F1$ with 4 parameters provide a better fit compared to 3 parameters.\relax }}{126}{figure.caption.94}
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {3 parameters}}}{126}{subfigure.32.1}
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {4 parameters)}}}{126}{subfigure.32.2}
+\contentsline {figure}{\numberline {4.33}{\ignorespaces The F-test distributions for fitting of function $F1$ with \ensuremath {\mathrm {b^\star }}\xspace invariant mass, for 3 and 4 parameters, showing that $F1$ with 4 parameters provide a better fit compared to 3 parameters.\relax }}{126}{figure.caption.95}
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {3 parameters}}}{126}{subfigure.33.1}
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {4 parameters}}}{126}{subfigure.33.2}
+\contentsline {figure}{\numberline {4.34}{\ignorespaces Toy distributions for the goodness-of-fit study for \ensuremath {\mathrm {q^\star }}\xspace .\relax }}{128}{figure.caption.96}
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {$F1$, $\chi ^{2}/\textrm {ndf}$ $=$ 0.983}}}{128}{subfigure.34.1}
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {$F2$, $\chi ^{2}/\textrm {ndf}$ $=$ 0.948}}}{128}{subfigure.34.2}
+\contentsline {subfigure}{\numberline {(c)}{\ignorespaces {$F3$, $\chi ^{2}/\textrm {ndf}$ $=$ 0.946}}}{128}{subfigure.34.3}
+\contentsline {subfigure}{\numberline {(d)}{\ignorespaces {$F4$, $\chi ^{2}/\textrm {ndf}$ $=$ 0.991}}}{128}{subfigure.34.4}
+\contentsline {subfigure}{\numberline {(e)}{\ignorespaces {$F5$, $\chi ^{2}/\textrm {ndf}$ $=$ 1.213}}}{128}{subfigure.34.5}
+\contentsline {figure}{\numberline {4.35}{\ignorespaces Toy distributions for the goodness-of-fit study for \ensuremath {\mathrm {b^\star }}\xspace .\relax }}{128}{figure.caption.97}
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {$F1$, $\chi ^{2}/\textrm {ndf}$ $=$ 0.923}}}{128}{subfigure.35.1}
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {$F2$, $\chi ^{2}/\textrm {ndf}$ $=$ 0.937}}}{128}{subfigure.35.2}
+\contentsline {subfigure}{\numberline {(c)}{\ignorespaces {$F3$, $\chi ^{2}/\textrm {ndf}$ $=$ 0.992}}}{128}{subfigure.35.3}
+\contentsline {subfigure}{\numberline {(d)}{\ignorespaces {$F4$, $\chi ^{2}/\textrm {ndf}$ $=$ 1.046}}}{128}{subfigure.35.4}
+\contentsline {subfigure}{\numberline {(e)}{\ignorespaces {$F5$, $\chi ^{2}/\textrm {ndf}$ $=$ 1.173}}}{128}{subfigure.35.5}
+\contentsline {figure}{\numberline {4.36}{\ignorespaces Invariant mass distribution spectrum of $\ensuremath {\gamma +\mathrm {jet}}\xspace $ fitted with 4-parameter polynomial fit function for three categories: (a) no b-tag (b) 1 b-tag and (c) 0 b-tag.\relax }}{130}{figure.caption.98}
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {M$_{\ensuremath {\gamma +\mathrm {jet}}\xspace }$}}}{130}{subfigure.36.1}
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {M$_{\ensuremath {\gamma +\mathrm {jet}}\xspace }$(1 b-tag)}}}{130}{subfigure.36.2}
+\contentsline {subfigure}{\numberline {(c)}{\ignorespaces {M$_{\ensuremath {\gamma +\mathrm {jet}}\xspace }$(0 b-tag)}}}{130}{subfigure.36.3}
+\contentsline {figure}{\numberline {4.37}{\ignorespaces Pulls distribution as a function of \ensuremath {\mathrm {q^\star }}\xspace (left) and \ensuremath {\mathrm {b^\star }}\xspace (right) mass corresponding to the four test functions.\relax }}{131}{figure.caption.99}
+\contentsline {figure}{\numberline {4.38}{\ignorespaces Effect of jet and photon energy correction uncertainties on the invariant mass of \ensuremath {\mathrm {q^\star }}\xspace \ signal.\relax }}{133}{figure.caption.100}
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {JES}}}{133}{subfigure.38.1}
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {PES}}}{133}{subfigure.38.2}
+\contentsline {figure}{\numberline {4.39}{\ignorespaces Effect of jet and photon energy resolution on the invariant mass of \ensuremath {\mathrm {q^\star }}\xspace \ signal.\relax }}{134}{figure.caption.101}
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {JER}}}{134}{subfigure.39.1}
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {PER}}}{134}{subfigure.39.2}
+\contentsline {figure}{\numberline {4.40}{\ignorespaces Effect of b-tag scale factor errors on the invariant mass of \ensuremath {\mathrm {b^\star }}\xspace \ signal.\relax }}{135}{figure.caption.102}
+\contentsline {figure}{\numberline {4.41}{\ignorespaces The observed significance in data for \ensuremath {\mathrm {q^\star }}\xspace signal corresponding to the coupling multipliers (a) $f$ $=$ 1.0, (b) $f$ $=$ 0.5, and (c) $f$ $=$ 0.1 as a function of the resonance mass for $\ensuremath {\gamma +\mathrm {jet}}\xspace $ resonance.\relax }}{139}{figure.caption.105}
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {$f$ $=$ 1.0}}}{139}{subfigure.41.1}
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {$f$ $=$ 0.5}}}{139}{subfigure.41.2}
+\contentsline {subfigure}{\numberline {(c)}{\ignorespaces {$f$ $=$ 0.1}}}{139}{subfigure.41.3}
+\contentsline {figure}{\numberline {4.42}{\ignorespaces The observed significance in data for \ensuremath {\mathrm {b^\star }}\xspace signal corresponding to the coupling multipliers (a) $f$ $=$ 1.0, (b) $f$ $=$ 0.5, and (c) $f$ $=$ 0.1 as a function of the resonance mass for $\ensuremath {\gamma +\mathrm {b}\textrm {-}\mathrm {jet}}\xspace $ resonance.\relax }}{139}{figure.caption.106}
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {$f$ $=$ 1.0}}}{139}{subfigure.42.1}
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {$f$ $=$ 0.5}}}{139}{subfigure.42.2}
+\contentsline {subfigure}{\numberline {(c)}{\ignorespaces {$f$ $=$ 0.1}}}{139}{subfigure.42.3}
+\contentsline {figure}{\numberline {4.43}{\ignorespaces The observed and expected 95$\%$ CL upper limits on $\sigma \times {B}\times {A}\times \epsilon $ (left column) and $\sigma \times {B}$ (right column) as a function of the mass of \ensuremath {\mathrm {q^\star }}\xspace resonance, for the coupling multipliers $f$ $=$ 1.0 (upper row), $f$ $=$ 0.5 (middle row), and $f$ $=$ 0.1 (lower row). The limits are also compared with the theoretical predictions for excited quark production. The inner (green) and outer (yellow) bands indicate the regions containing the 68$\%$ and 95$\%$ of the expected limits.\relax }}{141}{figure.caption.107}
+\contentsline {figure}{\numberline {4.44}{\ignorespaces The observed and expected 95$\%$ CL upper limits on $\sigma \times {B}\times {A}\times \epsilon $ (left column) and $\sigma \times {B}$ (right column) as a function of the mass of \ensuremath {\mathrm {b^\star }}\xspace resonance, for the coupling multipliers $f$ $=$ 1.0 (upper row), $f$ $=$ 0.5 (middle row), and $f$ $=$ 0.1 (lower row). The limits are also compared with the theoretical predictions for excited b-quark production. The inner (green) and outer (yellow) bands indicate the regions containing the 68$\%$ and 95$\%$ of the expected limits.\relax }}{142}{figure.caption.108}
+\contentsline {figure}{\numberline {4.45}{\ignorespaces The observed and expected 95$\%$ CL upper limits on $\sigma \times {B}$ as a function of the mass of the excited quark, for $f = 1.0$. The limits are also compared with theoretical predictions for excited quark production for the three couplings. The inner (green) band and the outer (yellow) band indicate the regions containing 68$\%$ and 95$\%$, respectively, of the expected limits.\relax }}{143}{figure.caption.109}
+\contentsline {figure}{\numberline {4.46}{\ignorespaces The observed and expected 95$\%$ CL upper limits on $\sigma \times {B}$ as a function of the mass of the excited b-quark, for $f = 1.0$. The limits are also compared with theoretical predictions for excited b-quark production for the three couplings. The inner (green) band and the outer (yellow) band indicate the regions containing 68$\%$ and 95$\%$, respectively, of the expected limits.\relax }}{143}{figure.caption.110}
+\contentsline {figure}{\numberline {4.47}{\ignorespaces The observed and expected regions excluded at 95\% CL for $\ensuremath {\mathrm {q^\star }}\xspace $ and $\ensuremath {\mathrm {b^\star }}\xspace $ production and decay, as a function of M$_{\ensuremath {\mathrm {q^\star }}\xspace }$, M$_{\ensuremath {\mathrm {b^\star }}\xspace }$ and $f$.\relax }}{144}{figure.caption.111}
+\addvspace {10\p@ }

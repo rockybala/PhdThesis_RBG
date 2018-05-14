@@ -1,0 +1,107 @@
+\contentsline {chapter}{\numberline {1}Theoretical Perspective}{1}{chapter.1}
+\contentsline {section}{\numberline {1.1}Evolution Of Particle Physics}{1}{section.1.1}
+\contentsline {section}{\numberline {1.2}Standard Model}{8}{section.1.2}
+\contentsline {subsection}{\numberline {1.2.1}Matter particles}{9}{subsection.1.2.1}
+\contentsline {subsection}{\numberline {1.2.2}Forces and messenger particles}{10}{subsection.1.2.2}
+\contentsline {subsection}{\numberline {1.2.3}SM as a gauge theory}{12}{subsection.1.2.3}
+\contentsline {subsubsection}{\numberline {1.2.3.1}Quantum electrodynamics}{12}{subsubsection.1.2.3.1}
+\contentsline {subsubsection}{\numberline {1.2.3.2}Electroweak}{14}{subsubsection.1.2.3.2}
+\contentsline {subsubsection}{\numberline {1.2.3.3}Quantum chromodynamics}{20}{subsubsection.1.2.3.3}
+\contentsline {subsection}{\numberline {1.2.4}Challenges faced by SM:\ unknown mysteries}{21}{subsection.1.2.4}
+\contentsline {section}{\numberline {1.3}Beyond The Standard Model}{22}{section.1.3}
+\contentsline {subsection}{\numberline {1.3.1}Model of excited quarks}{22}{subsection.1.3.1}
+\contentsline {subsection}{\numberline {1.3.2}A follow-up of previous searches}{25}{subsection.1.3.2}
+\contentsline {chapter}{\numberline {2}The Experimental Apparatus}{27}{chapter.2}
+\contentsline {section}{\numberline {2.1}The Large Hadron Collider}{27}{section.2.1}
+\contentsline {subsection}{\numberline {2.1.1}LHC tunnel layout}{29}{subsection.2.1.1}
+\contentsline {subsection}{\numberline {2.1.2}Main components of the LHC}{30}{subsection.2.1.2}
+\contentsline {subsection}{\numberline {2.1.3}Proton's journey to maximum acceleration}{32}{subsection.2.1.3}
+\contentsline {subsection}{\numberline {2.1.4}Luminosity measurements at LHC}{33}{subsection.2.1.4}
+\contentsline {section}{\numberline {2.2}The CMS Detector}{35}{section.2.2}
+\contentsline {subsection}{\numberline {2.2.1}Layout of the CMS detector}{36}{subsection.2.2.1}
+\contentsline {subsubsection}{\numberline {2.2.1.1}CMS tracking system}{38}{subsubsection.2.2.1.1}
+\contentsline {paragraph}{\numberline {2.2.1.1.1}\bf {Pixel detector}}{40}{paragraph.2.2.1.1.1}
+\contentsline {paragraph}{\numberline {2.2.1.1.2}\bf {Silicon strip detector}}{41}{paragraph.2.2.1.1.2}
+\contentsline {subsubsection}{\numberline {2.2.1.2}Calorimeter}{42}{subsubsection.2.2.1.2}
+\contentsline {paragraph}{\numberline {2.2.1.2.1}Electromagnetic calorimeter}{43}{paragraph.2.2.1.2.1}
+\contentsline {paragraph}{\numberline {2.2.1.2.2}Hadronic calorimeter}{46}{paragraph.2.2.1.2.2}
+\contentsline {subsubsection}{\numberline {2.2.1.3}Solenoidal magnet}{48}{subsubsection.2.2.1.3}
+\contentsline {subsubsection}{\numberline {2.2.1.4}Muon detector}{49}{subsubsection.2.2.1.4}
+\contentsline {subsubsection}{\numberline {2.2.1.5}CMS upgrade during Long Shutdown 1}{52}{subsubsection.2.2.1.5}
+\contentsline {subsection}{\numberline {2.2.2}CMS Trigger and Data Acquisition System}{52}{subsection.2.2.2}
+\contentsline {subsubsection}{\numberline {2.2.2.1}Level-1 trigger}{53}{subsubsection.2.2.2.1}
+\contentsline {subsubsection}{\numberline {2.2.2.2}High level trigger}{54}{subsubsection.2.2.2.2}
+\contentsline {subsubsection}{\numberline {2.2.2.3}Data acquisition system}{55}{subsubsection.2.2.2.3}
+\contentsline {subsection}{\numberline {2.2.3}CMS data management}{56}{subsection.2.2.3}
+\contentsline {subsection}{\numberline {2.2.4}CMS software and computing}{57}{subsection.2.2.4}
+\contentsline {chapter}{\numberline {3}Event Reconstruction And Simulation}{59}{chapter.3}
+\contentsline {section}{\numberline {3.1}Event Reconstruction}{60}{section.3.1}
+\contentsline {subsection}{\numberline {3.1.1}Track reconstruction}{62}{subsection.3.1.1}
+\contentsline {subsection}{\numberline {3.1.2}Vertex reconstruction}{64}{subsection.3.1.2}
+\contentsline {subsection}{\numberline {3.1.3}Photon reconstruction and identification}{65}{subsection.3.1.3}
+\contentsline {subsubsection}{\numberline {3.1.3.1}Photon reconstruction}{65}{subsubsection.3.1.3.1}
+\contentsline {paragraph}{\numberline {3.1.3.1.1}Calibration of Ecal channels}{66}{paragraph.3.1.3.1.1}
+\contentsline {paragraph}{\numberline {3.1.3.1.2}Clustering}{66}{paragraph.3.1.3.1.2}
+\contentsline {paragraph}{\numberline {3.1.3.1.3}Energy scale corrections of superclusters}{69}{paragraph.3.1.3.1.3}
+\contentsline {subsubsection}{\numberline {3.1.3.2}Photon identification}{70}{subsubsection.3.1.3.2}
+\contentsline {paragraph}{\numberline {3.1.3.2.1}Shower shape variables}{71}{paragraph.3.1.3.2.1}
+\contentsline {paragraph}{\numberline {3.1.3.2.2}Isolation variables}{72}{paragraph.3.1.3.2.2}
+\contentsline {subsection}{\numberline {3.1.4}Jet reconstruction and identification}{72}{subsection.3.1.4}
+\contentsline {subsubsection}{\numberline {3.1.4.1}Jet reconstruction}{73}{subsubsection.3.1.4.1}
+\contentsline {subsubsection}{\numberline {3.1.4.2}Jet energy corrections}{77}{subsubsection.3.1.4.2}
+\contentsline {subsubsection}{\numberline {3.1.4.3}b-tagging of a jet}{78}{subsubsection.3.1.4.3}
+\contentsline {subsubsection}{\numberline {3.1.4.4}Jet identification}{81}{subsubsection.3.1.4.4}
+\contentsline {section}{\numberline {3.2}Event Simulation}{81}{section.3.2}
+\contentsline {subsection}{\numberline {3.2.1}Event generation}{83}{subsection.3.2.1}
+\contentsline {subsubsection}{\numberline {3.2.1.1}MC event generators}{85}{subsubsection.3.2.1.1}
+\contentsline {paragraph}{\numberline {3.2.1.1.1}{\textsc {pythia}}\xspace }{85}{paragraph.3.2.1.1.1}
+\contentsline {paragraph}{\numberline {3.2.1.1.2}\textsc {MadGraph}\xspace }{85}{paragraph.3.2.1.1.2}
+\contentsline {subsection}{\numberline {3.2.2}Detector simulation}{86}{subsection.3.2.2}
+\contentsline {chapter}{\numberline {4}Search for light and heavy flavor excited quarks}{87}{chapter.4}
+\contentsline {section}{\numberline {4.1}Analysis strategy}{87}{section.4.1}
+\contentsline {subsection}{\numberline {4.1.1}Excited quark analysis}{88}{subsection.4.1.1}
+\contentsline {subsubsection}{\numberline {4.1.1.1}Signals}{88}{subsubsection.4.1.1.1}
+\contentsline {subsubsection}{\numberline {4.1.1.2}Backgrounds}{88}{subsubsection.4.1.1.2}
+\contentsline {paragraph}{\numberline {4.1.1.2.1}\bf {SM $\ensuremath {\gamma +\mathrm {jet}}\xspace $}}{89}{paragraph.4.1.1.2.1}
+\contentsline {paragraph}{\numberline {4.1.1.2.2}\bf {QCD dijet}}{89}{paragraph.4.1.1.2.2}
+\contentsline {paragraph}{\numberline {4.1.1.2.3}\bf {EWK}}{91}{paragraph.4.1.1.2.3}
+\contentsline {section}{\numberline {4.2}Production of Ntuples}{91}{section.4.2}
+\contentsline {subsection}{\numberline {4.2.1}Samples processed}{91}{subsection.4.2.1}
+\contentsline {subsubsection}{\numberline {4.2.1.1}Data}{92}{subsubsection.4.2.1.1}
+\contentsline {subsubsection}{\numberline {4.2.1.2}Signal MC}{92}{subsubsection.4.2.1.2}
+\contentsline {subsubsection}{\numberline {4.2.1.3}Background MC}{95}{subsubsection.4.2.1.3}
+\contentsline {section}{\numberline {4.3}Re-weighting of MC events}{97}{section.4.3}
+\contentsline {subsection}{\numberline {4.3.1}Luminosity re-weighting}{97}{subsection.4.3.1}
+\contentsline {subsection}{\numberline {4.3.2}Pile-up re-weighting}{97}{subsection.4.3.2}
+\contentsline {section}{\numberline {4.4}Event selection}{98}{section.4.4}
+\contentsline {subsection}{\numberline {4.4.1}Trigger selection}{99}{subsection.4.4.1}
+\contentsline {subsection}{\numberline {4.4.2}MET filters}{100}{subsection.4.4.2}
+\contentsline {subsection}{\numberline {4.4.3}Primary vertex selection}{101}{subsection.4.4.3}
+\contentsline {subsection}{\numberline {4.4.4}Analysis object selection: Photon}{101}{subsection.4.4.4}
+\contentsline {subsubsection}{\numberline {4.4.4.1}Overlap removal between $\ensuremath {\gamma +\mathrm {jet}}\xspace $ and QCD dijet background}{103}{subsubsection.4.4.4.1}
+\contentsline {subsection}{\numberline {4.4.5}Analysis object selection: Jet}{105}{subsection.4.4.5}
+\contentsline {subsection}{\numberline {4.4.6}Analysis object selection: b-Jet}{106}{subsection.4.4.6}
+\contentsline {subsection}{\numberline {4.4.7}Kinematical restrictions between $\gamma $ and jet$/$b-jet}{108}{subsection.4.4.7}
+\contentsline {subsection}{\numberline {4.4.8}Optimization of event selection}{117}{subsection.4.4.8}
+\contentsline {section}{\numberline {4.5}Highest invariant mass events in data}{118}{section.4.5}
+\contentsline {section}{\numberline {4.6}Signal spectrum}{121}{section.4.6}
+\contentsline {section}{\numberline {4.7}Signal interpolation}{122}{section.4.7}
+\contentsline {section}{\numberline {4.8}Parametric background}{124}{section.4.8}
+\contentsline {subsection}{\numberline {4.8.1}Fisher test}{125}{subsection.4.8.1}
+\contentsline {subsection}{\numberline {4.8.2}Goodness-of-fit}{127}{subsection.4.8.2}
+\contentsline {subsection}{\numberline {4.8.3}Bias due to the choice of background fit function}{129}{subsection.4.8.3}
+\contentsline {section}{\numberline {4.9}Systematic Uncertainties}{132}{section.4.9}
+\contentsline {subsection}{\numberline {4.9.1}Luminosity}{132}{subsection.4.9.1}
+\contentsline {subsection}{\numberline {4.9.2}Pile-up Uncertainty }{132}{subsection.4.9.2}
+\contentsline {subsection}{\numberline {4.9.3}HLT trigger inefficiency}{133}{subsection.4.9.3}
+\contentsline {subsection}{\numberline {4.9.4}Photon and jet energy scale}{133}{subsection.4.9.4}
+\contentsline {subsection}{\numberline {4.9.5}Photon and jet energy resolution}{133}{subsection.4.9.5}
+\contentsline {subsection}{\numberline {4.9.6}Photon ID inefficiency}{134}{subsection.4.9.6}
+\contentsline {subsection}{\numberline {4.9.7}b-Tag scale factor}{134}{subsection.4.9.7}
+\contentsline {subsection}{\numberline {4.9.8}Signal shape interpolation}{135}{subsection.4.9.8}
+\contentsline {subsection}{\numberline {4.9.9}Background Shape Uncertainty}{135}{subsection.4.9.9}
+\contentsline {section}{\numberline {4.10}Limit computation}{135}{section.4.10}
+\contentsline {section}{\numberline {4.11}Results}{138}{section.4.11}
+\contentsline {subsection}{\numberline {4.11.1}Significance of local excesses in data}{138}{subsection.4.11.1}
+\contentsline {subsection}{\numberline {4.11.2}Exclusion limits}{139}{subsection.4.11.2}
+\contentsline {chapter}{\numberline {5}Summary and conclusion}{145}{chapter.5}

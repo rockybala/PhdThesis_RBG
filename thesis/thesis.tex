@@ -1,17 +1,295 @@
-\documentclass[a4paper,12pt,english,twoside]]{report}
+\documentclass[a4paper,12pt,english,twoside]{report}
 
+%%****************************************************************
+% Define margins of document
+\sloppy
+\usepackage{geometry}
+%\geometry{verbose,a4paper,tmargin=30mm,bmargin=30mm,lmargin=30mm,rmargin=20mm}
+%\geometry{verbose,a4paper,tmargin=30mm,bmargin=30mm,lmargin=30mm,rmargin=20mm}%%% In Varun's thesis
+\geometry{verbose,a4paper,tmargin=1.25in,bmargin=1.25in,lmargin=1.5in,rmargin=1.0in}%%% Standard from DU website
+
+%%%%% TITLE STYLES %%%%%
+%%Options for differnt title styles.            
+%Options: Sonny, Lenny, Glenn, Conny, Rejne, Bjarne, Bjornstrup
+\usepackage[Bjarne]{fncychap}
+
+%% One more title style using titlesec package
+\usepackage{titlesec, blindtext, color}
+%% This part is used for titlesec, as titlesec has issue of removing section numbering if used. So this code fragment cure that.
+\usepackage{etoolbox}
+\usepackage{enumitem}
+
+\makeatletter
+\patchcmd{\ttlh@hang}{\parindent\z@}{\parindent\z@\leavevmode}{}{}
+\patchcmd{\ttlh@hang}{\noindent}{}{}{}
+\makeatother
+
+%\definecolor{Mygray}{gray}{0.89} %% This is to get a color as fraction of a basic color. 
+%%% get any color from http://www.tayloredmktg.com/rgb/ : just divide each number by 255 to get the required fraction.
+\definecolor{Mygray}{rgb}{0.86,0.86,0.86} %%Gainsboro 
+%%****************************************************************
+
+%%****************************************************************
+%% PACKAGES
+% Set overall spacing
+\usepackage{setspace}
+\onehalfspacing
+%\doublespacing
+
+\usepackage{hyperref}
+\usepackage[T1]{fontenc}
+\usepackage{microtype}
+%% packages for table styles
+\usepackage{booktabs,tabularx,color,colortbl, xfrac}
 \usepackage{graphicx}
-\graphicspath{ {Plots/} }
+%% Equations alignment
+\usepackage[fleqn]{amsmath} %% left
+\usepackage{amsfonts,MnSymbol}
+\usepackage{amsthm}
+\usepackage{cite}
+\usepackage{subfig}
+\usepackage{float}
+\usepackage{rotating}
+\usepackage{bm} % for bold math font
+\usepackage{multirow}
+\usepackage{verbatim}
+\usepackage{xspace}
+\usepackage{caption}
+%%%\usepackage[font=small,labelfont=bf]{caption}
+%% cross referencing equations, figures etc.
+%\hypersetup{pdfborder = {0 0 0}} %% Remove red ugly border about clickable references
+\usepackage{cleveref}
+\usepackage{fixmath}
+\usepackage{array}
+\usepackage{wallpaper}
+\usepackage{epstopdf}
+\usepackage{notoccite} %% To avoid citations in List of figures
+\usepackage{soul} %% to underline without wraping text
+\usepackage{makecell}
+%\setcounter{secnumdepth}{3}
 
+%%Making hyperlink for citations
+%\usepackage[hidelinks]{hyperref}
+\usepackage{hyperref}
+\usepackage[dvipsnames]{xcolor}
+\hypersetup{
+  colorlinks,
+  %linkcolor={Mahogany},
+  linkcolor={black},
+  citecolor={black},
+  urlcolor={black}
+%  menucolor={red}
+  }
+%%****************************************************************
 
+%%****************************************************************
 
-\title{
-  {Study of high PT processes in multi-TeV hadron-hadron collisions}\\
-  {\large{University of Delhi}}\\
-  {\includegraphics{DUlogo.jpg}}
+%% Used for paragraph command that is an alternate for subsubsubsection. 
+\setcounter{secnumdepth}{4}
+%\setcounter{tocdepth}{5}
+\titleformat{\paragraph}
+            {\normalfont\normalsize\bfseries}{\theparagraph}{1em}{}
+            \titlespacing*{\paragraph}
+            {0pt}{0.2\baselineskip}{0.1\baselineskip}
+%                          {0pt}{0.7ex plus 0.01ex minus .6ex}{0.1ex plus .1ex minus 0.6ex}
+
+%% specify space before and after the equations::: default is 12pt
+\expandafter\def\expandafter\normalsize\expandafter{%
+  \normalsize
+  \setlength\abovedisplayskip{9pt}
+  \setlength\belowdisplayskip{9pt}
+  \setlength\abovedisplayshortskip{9pt}
+  \setlength\belowdisplayshortskip{9pt}
+  }
+%% setting the margin before and after table
+\setlength{\textfloatsep}{0.1cm}
+%\setlength{\intextsep}{3\baselineskip}
+%\setlength{\intextsep}{0.1cm}
+
+\newlength{\myintextsep}\setlength{\myintextsep}{0.1\baselineskip}
+%CUSTOM ENVIRONMENT
+\makeatletter
+\newenvironment{myfigure}[1][]{ %
+  \let\intextsep@old\intextsep %
+  \setlength{\intextsep}{\myintextsep} %
+  \figure[#1] %
+}{ %
+  \endfigure\setlength{\intextsep}{\intextsep@old} %
 }
-\author{Rocky Bala Garg}
-\date{18 July 2017}
+\makeatother
 
-\maketitle
+% filling the color in the table cell completely using these. Otherwise small white space remains above and below. 
+\newcommand*{\belowrulesepcolor}[1]{% %%
+  \noalign{%                          %%
+    \kern-\belowrulesep               %%
+    \begingroup                       %%
+    \color{#1}%                       %%
+    \hrule height\belowrulesep        %%
+    \endgroup                         %%
+  }%                                  %%
+}                                     %%
+\newcommand*{\aboverulesepcolor}[1]{%
+  \noalign{%
+    \begingroup
+    \color{#1}%
+    \hrule height\aboverulesep
+    \endgroup
+    \kern-\aboverulesep
+  }%
+}
+%%****************************************************************
 
+%%****************************************************************
+%% GLOSSARIES
+\usepackage{glossaries} %% Load the Glossary Package %% load it always after hyperref package
+\makeglossaries
+\input{glossary.tex}
+%%****************************************************************
+
+%%****************************************************************
+%% Path to plots (in the graph ensamble, the path inside the Plots/ is enough to be specified.)
+\graphicspath{ {Plots/} }
+%%****************************************************************
+
+%%****************************************************************
+%%%%% Definitions for new commmands, mostly symbols defined in symbolDefn.sty file
+\usepackage{symbolDefn}
+%%****************************************************************
+
+
+\newcommand{\clearemptydoublepage}{\newpage{\pagestyle{empty}\cleardoublepage}}
+
+%%****************************************************************
+%%% Here start for the title page ------------
+\newcommand\Maketitle{\begin{titlepage}
+\vspace*{0.5cm}
+\begin{center}
+\doublespacing
+    {\LARGE \textbf{Search for Quark Compositeness in $\mathbold{\gamma}+$jet final states in proton-proton collisions at $\mathbold{\sqrt{s}}$ $=$ 13 TeV with the CMS Detector at the Large Hadron Collider}}
+\doublespacing
+\vspace{1.3cm}%%1cm
+
+\singlespacing
+ {\large THESIS SUBMITTED TO THE UNIVERSITY OF DELHI}\\[\baselineskip]
+          {\large FOR THE DEGREE OF} \\
+\doublespacing
+\vspace{0.5cm}
+{\large\textbf{DOCTOR OF PHILOSOPHY}}
+\vspace{1.5cm}%%1cm
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\begin{figure}[htbp]
+\begin{center}
+  %\includegraphics[width=4cm]{du_logo.png}
+  \includegraphics[width=4cm]{DU_logo.png}
+\end{center}
+\end{figure}\\
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\singlespacing
+\vspace{1.1cm} %%1cm
+{\large ROCKY BALA GARG}\\
+\vspace{0.4cm} %%1cm
+\onehalfspacing
+%{\large  SUPERVISOR: PROF. BRAJESH CHANDRA CHOUDHARY}\\
+%\vspace{0.2cm}    
+%{\large CO-SUPERVISOR: PROF. DEBAJYOTI CHOUDHURY}\\
+%\vspace{1.5cm}
+{\large DEPARTMENT OF PHYSICS \& ASTROPHYSICS}\\
+{\large UNIVERSITY OF DELHI}\\
+{\large DELHI 110 007}\\
+{\large INDIA}\\
+\vspace{0.8cm}%%0.5
+{\large APRIL, 2018}
+
+ \end{center}\par
+  \vfil\null
+  \end{titlepage}%
+}
+
+
+%\includeonly{Chapters/Chapter5}
+%\includeonly{Chapters/Chapter5}
+
+\begin{document}
+
+\Maketitle % for title page
+\clearemptydoublepage %%this command left a new empty page if the current page is odd. It does not do anything if the current page is even.
+\pagenumbering{roman}
+
+\input{AddedMaterial/Declaration.tex}
+\clearemptydoublepage
+
+\input{AddedMaterial/CertOfOriginality.tex}
+\clearemptydoublepage
+
+\input{AddedMaterial/StudentApprovalForm.tex}
+\clearemptydoublepage
+
+\input{AddedMaterial/Dedicated.tex}
+\clearemptydoublepage
+
+\input{AddedMaterial/Acknowledgements.tex}
+\clearemptydoublepage
+
+\input{AddedMaterial/ListOfPublications.tex}
+\clearemptydoublepage
+
+\input{AddedMaterial/Abstract.tex}
+\clearemptydoublepage
+
+\tableofcontents
+\clearemptydoublepage
+
+\listoffigures
+\clearemptydoublepage
+
+\listoftables
+\clearemptydoublepage
+\pagenumbering{arabic}
+
+%%% VARIOUS SPACINGS
+%% To specify the spacing between the lines (done below for all the chapters) 
+%\renewcommand{\baselinestretch}{2}
+%% To specify the spacing between two paragraphs
+\setlength{\parskip}{0.6em}
+%% To specify the spacing between sections and sub sections using titlesec package
+\titlespacing{\section}{0pt}{0.5\baselineskip}{0.1\baselineskip}
+\titlespacing{\subsection}{0pt}{0.2\baselineskip}{0.1\baselineskip}
+\titlespacing{\subsubsection}{0pt}{0.2\baselineskip}{0.1\baselineskip}
+
+%%% Std spacing required on DU website is 1.5 which is onehalfspacing but that is more tighter than what I have used here. 
+{\setstretch{1.3}
+\input{Chapters/Chapter1.tex}
+\clearemptydoublepage
+\input{Chapters/Chapter2.tex}
+\clearemptydoublepage
+\input{Chapters/Chapter3.tex}
+\clearemptydoublepage
+\input{Chapters/Chapter4.tex}
+\clearemptydoublepage
+\input{Chapters/Chapter5.tex}
+\clearemptydoublepage
+%\include{Chapters/Chapter1}
+%\clearemptydoublepage
+%\include{Chapters/Chapter2}
+%\clearemptydoublepage
+%\include{Chapters/Chapter3}
+%\clearemptydoublepage
+%\include{Chapters/Chapter4}
+%\clearemptydoublepage
+%\include{Chapters/Chapter5}
+%\clearemptydoublepage
+}
+%\printglossaries
+
+%\printglossary[type=main,style=long,nonumberlist]
+%\printglossary[nonumberlist]
+%\nocite{*}
+\bibliographystyle{CMSPubComm}
+\bibliography{Chapters/ChapterAll_ref}
+%\bibliography{Chapters/Chapter1_ref}
+%\bibliography{Chapters/Chapter2_ref}
+%\bibliography{Chapters/Chapter3_ref}
+
+
+
+\end{document}
